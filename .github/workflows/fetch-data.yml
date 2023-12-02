@@ -20,10 +20,11 @@ jobs:
 
       - run: echo "Fetching streets"
       # addresses is too big, change to streets
-      - run: echo pwd
-      - run: cd data
-      - run: echo pwd
+      #- run: echo pwd
+      #- run: cd data
+      #- run: echo pwd
       - run: touch test.csv
+      - run: mv test.csv data/test.csv
       #- run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-strassenverzeichnis/amtliches-strassenverzeichnis/amtliches-strassenverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
       #- run: unzip $(date +%Y-%m-%d).csv.zip
       #- run: mv pure_str.csv street-$(date +%Y-%m-%d).csv
