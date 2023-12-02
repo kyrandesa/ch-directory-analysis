@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout the streets
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
 
       - run: echo "Fetching streets"
