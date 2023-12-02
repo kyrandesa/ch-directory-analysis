@@ -20,6 +20,7 @@ jobs:
 
       - run: echo "Fetching streets"
       # addresses is too big, change to streets
+      - run: cd data
       - run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-strassenverzeichnis/amtliches-strassenverzeichnis/amtliches-strassenverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
       - run: unzip $(date +%Y-%m-%d).csv.zip
       - run: mv pure_str.csv street-$(date +%Y-%m-%d).csv
@@ -40,7 +41,7 @@ jobs:
           COMMIT_AUTHOR: AutoFetch swisstopo
         run: |
           git config --global user.name "${{ env.COMMIT_AUTHOR }}"
-          git config --global user.email "kyranesa@users.noreply.github.com"
+          git config --global user.email "kyrandesa@users.noreply.github.com"
           git add .
           git commit -m "${{env.COMMIT_MESSAGE }}"
           git push
