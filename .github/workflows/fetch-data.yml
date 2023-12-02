@@ -20,14 +20,11 @@ jobs:
 
       - run: echo "Fetching streets"
       # addresses is too big, change to streets
-      #- run: echo pwd
-      #- run: cd data
-      #- run: echo pwd
-      - run: touch test.csv
-      - run: mv test.csv data/test.csv
-      #- run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-strassenverzeichnis/amtliches-strassenverzeichnis/amtliches-strassenverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
-      #- run: unzip $(date +%Y-%m-%d).csv.zip
-      #- run: mv pure_str.csv street-$(date +%Y-%m-%d).csv
+      #- run: touch test.csv
+      #- run: mv test.csv data/test.csv
+      - run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-strassenverzeichnis/amtliches-strassenverzeichnis/amtliches-strassenverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
+      - run: unzip $(date +%Y-%m-%d).csv.zip
+      - run: mv pure_str.csv data/street-$(date +%Y-%m-%d).csv
       ##- run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
       ##- run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
@@ -46,7 +43,7 @@ jobs:
         run: |
           git config --global user.name "${{ env.COMMIT_AUTHOR }}"
           git config --global user.email "kyrandesa@users.noreply.github.com"
-          git add .
+          git add *.csv
           git commit -m "${{env.COMMIT_MESSAGE }}"
           git push
         # uses: github-actions-x/commit@v2.9
