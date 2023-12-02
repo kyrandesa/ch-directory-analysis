@@ -14,12 +14,14 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout the repository
+      - name: Checkout the streets
         uses: actions/checkout@v3
 
 
-      - run: echo "Fetching building addresses"
-      - run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
+      - run: echo "Fetching streets"
+      # addresses is too big, change to streets
+      - run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-strassenverzeichnis/amtliches-strassenverzeichnis/amtliches-strassenverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
+      #- run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
       #- run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
@@ -32,7 +34,7 @@ jobs:
       #    ls ${{ github.workspace }}
       - name: Push data to repo
         env:
-          COMMIT_MESSAGE: Fetching todays addresses
+          COMMIT_MESSAGE: Fetching todays streets
           COMMIT_AUTHOR: AutoFetch swisstopo
         run: |
           git config --global user.name "${{ env.COMMIT_AUTHOR }}"
@@ -48,3 +50,8 @@ jobs:
         #  files: 2023-12-02.csv.zip
         #  name: GH Action
       - run: echo "🍏 This job's status is ${{ job.status }}."
+
+
+#    steps:
+#      - name: Checkout the buildings
+#        uses: actions/checkout@v3
