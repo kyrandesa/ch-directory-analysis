@@ -10,8 +10,11 @@ on:
 jobs:
   Fetch-Building-Addresses:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkut the repository
+      - name: Checkout the repository
         uses: actions/checkout@v3
 
 
