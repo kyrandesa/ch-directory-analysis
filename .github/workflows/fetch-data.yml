@@ -1,16 +1,22 @@
 name: Fetch data from swisstopo
 #run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 run-name: Fetching data from swisstopo
-on: [push]
-#on: 
-#    schedule:
-#        - cron: '30 5 * * *'
+#on: [push]
+on: 
+    schedule:
+        - cron: '30 5 * * *'
+    workflow_dispatch:
+
 jobs:
   Fetch-Building-Addresses:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkut the repository
+        uses: actions/checkout@v3
+
+
       - run: echo "Fetching building addresses"
-      - run: wget "https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis_2056.csv.zip"
+      - run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
       #- run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
@@ -21,4 +27,12 @@ jobs:
       #- name: List files in the repository
       #  run: |
       #    ls ${{ github.workspace }}
+      - name: Push data to repo
+        uses: github-actions-x/commit@v2.9
+        with:
+          push-branch: 'main'
+          commit-message: 'Fetching todays swisstopo data'
+          force-add: 'true'
+          files: data/*.zip
+          name: GH Action
       - run: echo "🍏 This job's status is ${{ job.status }}."
