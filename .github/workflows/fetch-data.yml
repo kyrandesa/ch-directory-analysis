@@ -33,6 +33,6 @@ jobs:
           push-branch: 'main'
           commit-message: 'Fetching todays swisstopo data'
           force-add: 'true'
-          files: data/*.zip
+          files: *.zip
           name: GH Action
       - run: echo "🍏 This job's status is ${{ job.status }}."
