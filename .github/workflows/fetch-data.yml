@@ -1,4 +1,4 @@
-name: Fetch data from swisstopo
+name: Fetch street data from swisstopo
 #run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 run-name: Fetching streets from swisstopo
 #on: [push]
