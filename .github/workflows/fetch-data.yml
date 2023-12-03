@@ -20,21 +20,14 @@ jobs:
 
       - run: echo "Fetching streets"
       # addresses is too big, change to streets
-      #- run: touch test.csv
-      #- run: mv test.csv data/test.csv
       - run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-strassenverzeichnis/amtliches-strassenverzeichnis/amtliches-strassenverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
       - run: unzip $(date +%Y-%m-%d).csv.zip
       - run: mv pure_str.csv data/street-$(date +%Y-%m-%d).csv
-      ##- run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
-      ##- run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
-      #- name: List files in the repository
-      #  run: |
-      #    ls ${{ github.workspace }}
       - name: Push data to repo
         env:
-          COMMIT_MESSAGE: Fetching todays streets
+          COMMIT_MESSAGE: Fetching streets for $(date +&Y-%m-%d)
           COMMIT_AUTHOR: AutoFetch swisstopo
         run: |
           git config --global user.name "${{ env.COMMIT_AUTHOR }}"
@@ -43,8 +36,3 @@ jobs:
           git commit -m "${{env.COMMIT_MESSAGE }}"
           git push
       - run: echo "🍏 This job's status is ${{ job.status }}."
-
-
-#    steps:
-#      - name: Checkout the buildings
-#        uses: actions/checkout@v3
