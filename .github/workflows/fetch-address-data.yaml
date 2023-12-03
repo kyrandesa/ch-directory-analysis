@@ -1,0 +1,43 @@
+name: Fetch address data from swisstopo
+run-name: Fetching address data from swisstopo
+#on: [push]
+on: 
+    schedule:
+        - cron: '30 5 * * *'
+    workflow_dispatch:
+
+jobs:
+  Fetch-Building-Addresses:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout the addresses
+        uses: actions/checkout@v4
+
+
+      - run: echo "Fetching addresses"
+      - run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
+      - run: unzip $(date +%Y-%m-%d).csv.zip
+      - name: split file into cantons
+        run: |
+            csvcut -c ADR_EGAID,STR_ESID,BDG_EGID,STN_LABEL,ADR_NUMBER,ZIP_LABEL,COM_FOSNR,ADR_STATUS,ADR_OFFICIAL,ADR_MODIFIED,ADR_EASTING,ADR_NORTHING pure_adr.csv > min_adr.csv
+            for i in AI AG AR BE BL BS FR GE GL GR JU LU NE NW OW SG SH SO SZ TG TI UR VD VS ZG ZH;
+              do
+                csvgrep -d ';' -c 'COM_CANTON' -m $i min_adr.csv > data/$i-$(date +%Y-%m-%d).csv;
+              done
+         
+      #- run: cp min_adr.csv data/adr-$(date +%Y-%m-%d).csv
+      #- run: mv pure_str.csv data/pure_str.csv
+      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: Push data to repo
+
+        run: |
+          git config --global user.name "AutoFetch swisstopo"
+          git config --global user.email "kyrandesa@users.noreply.github.com"
+          git add *.csv
+          git commit -am "Fetching streets for $(date +%Y-%m-%d)"
+          git push
+      - run: echo "🍏 This job's status is ${{ job.status }}."
