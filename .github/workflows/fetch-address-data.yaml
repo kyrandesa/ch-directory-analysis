@@ -31,6 +31,8 @@ jobs:
               do
                 csvgrep -d ',' -c 'COM_CANTON' -m $i min_adr.csv > data/$i-$(date +%Y-%m-%d).csv;
               done
+      - name: clean up
+        run: rm pure_adr.csv min_adr.csv
          
       - name: Push data to repo
         run: |
