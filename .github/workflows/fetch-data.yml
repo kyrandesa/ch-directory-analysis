@@ -26,13 +26,11 @@ jobs:
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
       - name: Push data to repo
-        env:
-          COMMIT_MESSAGE: Fetching streets for $(date +%sY-%m-%d)
-          COMMIT_AUTHOR: AutoFetch swisstopo
+
         run: |
-          git config --global user.name "${{ env.COMMIT_AUTHOR }}"
+          git config --global user.name "AutoFetch swisstopo"
           git config --global user.email "kyrandesa@users.noreply.github.com"
           git add *.csv
-          git commit -am "${{env.COMMIT_MESSAGE }}"
+          git commit -am "Fetching streets for $(date +%Y-%m-%d)"
           git push
       - run: echo "🍏 This job's status is ${{ job.status }}."
