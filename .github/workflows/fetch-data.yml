@@ -22,7 +22,8 @@ jobs:
       # addresses is too big, change to streets
       - run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-strassenverzeichnis/amtliches-strassenverzeichnis/amtliches-strassenverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
       - run: unzip $(date +%Y-%m-%d).csv.zip
-      - run: mv pure_str.csv data/street-$(date +%Y-%m-%d).csv
+      - run: cp pure_str.csv data/street-$(date +%Y-%m-%d).csv
+      - run: mv pure_str.csv data/pure_str.csv
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
       - name: Push data to repo
