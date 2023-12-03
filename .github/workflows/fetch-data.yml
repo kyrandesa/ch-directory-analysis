@@ -4,7 +4,7 @@ run-name: Fetching streets from swisstopo
 #on: [push]
 on: 
     schedule:
-        - cron: '30 5 * * *'
+        - cron: '30 9 * * *'
     workflow_dispatch:
 
 jobs:
