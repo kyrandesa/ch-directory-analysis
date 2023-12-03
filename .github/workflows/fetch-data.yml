@@ -1,6 +1,6 @@
 name: Fetch data from swisstopo
 #run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-run-name: Fetching data from swisstopo
+run-name: Fetching streets from swisstopo
 #on: [push]
 on: 
     schedule:
@@ -8,7 +8,7 @@ on:
     workflow_dispatch:
 
 jobs:
-  Fetch-Building-Addresses:
+  Fetch-Streets:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -19,7 +19,6 @@ jobs:
 
 
       - run: echo "Fetching streets"
-      # addresses is too big, change to streets
       - run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-strassenverzeichnis/amtliches-strassenverzeichnis/amtliches-strassenverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
       - run: unzip $(date +%Y-%m-%d).csv.zip
       - run: cp pure_str.csv data/street-$(date +%Y-%m-%d).csv
