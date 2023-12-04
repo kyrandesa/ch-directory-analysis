@@ -30,7 +30,7 @@ jobs:
             for i in AI AG AR BE BL BS FR GE GL GR JU LU NE NW OW SG SH SO SZ TG TI UR VD VS ZG ZH;
               do
                 csvgrep -d ',' -c 'COM_CANTON' -m $i min_adr.csv > data/tmp;
-                csvsort -c 'ADR_EGAID' data/tmp > $i-$(date +%Y-%m-%d).csv;
+                csvsort -c 'ADR_EGAID' data/tmp > data/$i-$(date +%Y-%m-%d).csv;
               done
       - name: clean up
         run: rm pure_adr.csv min_adr.csv data/tmp
