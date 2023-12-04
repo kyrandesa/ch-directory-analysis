@@ -29,10 +29,11 @@ jobs:
             csvcut -d ';' -c ADR_EGAID,STR_ESID,BDG_EGID,STN_LABEL,ADR_NUMBER,ZIP_LABEL,COM_FOSNR,COM_CANTON,ADR_STATUS,ADR_OFFICIAL,ADR_MODIFIED,ADR_EASTING,ADR_NORTHING pure_adr.csv > min_adr.csv
             for i in AI AG AR BE BL BS FR GE GL GR JU LU NE NW OW SG SH SO SZ TG TI UR VD VS ZG ZH;
               do
-                csvgrep -d ',' -c 'COM_CANTON' -m $i min_adr.csv > data/$i-$(date +%Y-%m-%d).csv;
+                csvgrep -d ',' -c 'COM_CANTON' -m $i min_adr.csv > data/tmp;
+                csvsort -c 'ADR_EGAID' data/tmp > $i-$(date +%Y-%m-%d).csv;
               done
       - name: clean up
-        run: rm pure_adr.csv min_adr.csv
+        run: rm pure_adr.csv min_adr.csv data/tmp
          
       - name: Push data to repo
         run: |
