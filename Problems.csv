@@ -1,13 +1,13 @@
-ZIP_LABEL;COM_NAME;STN_LABEL
-1808 Les Monts-de-Corsier;Corsier-sur-Vevey;Chemin de la Baume
-1866 La Forclaz VD;Ormont-Dessous;Chemin des Preises
-1880 Bex; Bex;Route de Lavey
-3619 Eriz;Eriz;Moos
-3771 Blankenburg;Zweisimmen;Stützli-Weg
-6372 Ennetmoos;Ennetmoos;Grosssitz
-6372 Ennetmoos;Ennetmoos;Halten
-7112 Duvin;Illanz/Glion;Sum Vitg
-7112 Duvin;Illanz/Glion;Vitg
-8212 Neuhausen am Rheinfall;Neuhasen am Rheinfall;Nohlstrasse
-1059 Peney-le-Jorat;Jorat-Menthue;Route de Villars-Mendraz
-1110 Morges;Morges;Sentier du Ministre
+ZIP_LABEL,COM_NAME,STN_LABEL
+1808 Les Monts-de-Corsier,Corsier-sur-Vevey,Chemin de la Baume
+1866 La Forclaz VD,Ormont-Dessous,Chemin des Preises
+1880 Bex, Bex,Route de Lavey
+3619 Eriz,Eriz,Moos
+3771 Blankenburg,Zweisimmen,Stützli-Weg
+6372 Ennetmoos,Ennetmoos,Grosssitz
+6372 Ennetmoos,Ennetmoos,Halten
+7112 Duvin,Illanz/Glion,Sum Vitg
+7112 Duvin,Illanz/Glion,Vitg
+8212 Neuhausen am Rheinfall,Neuhasen am Rheinfall,Nohlstrasse
+1059 Peney-le-Jorat,Jorat-Menthue,Route de Villars-Mendraz
+1110 Morges,Morges,Sentier du Ministre
