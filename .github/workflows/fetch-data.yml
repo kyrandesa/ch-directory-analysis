@@ -19,7 +19,7 @@ jobs:
 
 
       - run: echo "Fetching streets"
-      - run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-strassenverzeichnis/amtliches-strassenverzeichnis/amtliches-strassenverzeichnis_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
+      - run: curl https://data.geo.admin.ch/ch.swisstopo.amtliches-strassenverzeichnis/amtliches-strassenverzeichnis_ch/amtliches-strassenverzeichnis_ch_2056.csv.zip -o $(date +%Y-%m-%d).csv.zip
       - run: unzip $(date +%Y-%m-%d).csv.zip
       - run: cp pure_str.csv data/street-$(date +%Y-%m-%d).csv
       - run: mv pure_str.csv data/pure_str.csv
