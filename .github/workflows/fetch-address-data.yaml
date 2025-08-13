@@ -35,10 +35,10 @@ jobs:
       - name: clean up
         run: |
           rm amtliches-gebaeudeadressverzeichnis_ch_2056.csv min_adr.csv data/tmp
-          #for i in AI AG AR BE BL BS FR GE GL GR JU LU NE NW OW SG SH SO SZ TG TI UR VD VS ZG ZH;
-          #  do
-          #    rm data/$i-$(date --date="-1 month" +%Y-%m-%d).csv;
-          #  done
+          for i in AI AG AR BE BL BS FR GE GL GR JU LU NE NW OW SG SH SO SZ TG TI UR VD VS ZG ZH;
+            do
+              rm data/$i-$(date --date="-1 month" +%Y-%m-%d).csv;
+            done
          
       - name: Push data to repo
         run: |
