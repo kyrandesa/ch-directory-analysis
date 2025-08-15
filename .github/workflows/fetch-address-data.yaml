@@ -26,7 +26,7 @@ jobs:
           unzip $(date +%Y-%m-%d).csv.zip
       - name: remove unnecessary columns and split file into cantons
         run: |
-            csvcut -d ';' -c ADR_EGAID,STR_ESID,BDG_EGID,STN_LABEL,ADR_NUMBER,ZIP_LABEL,COM_FOSNR,COM_CANTON,ADR_STATUS,ADR_MODIFIED,ADR_EASTING,ADR_NORTHING amtliches-gebaeudeadressverzeichnis_ch_2056.csv > min_adr.csv
+            csvcut -y 0 -I -d ';' -c ADR_EGAID,STR_ESID,BDG_EGID,STN_LABEL,ADR_NUMBER,ZIP_LABEL,COM_FOSNR,COM_CANTON,ADR_STATUS,ADR_MODIFIED,ADR_EASTING,ADR_NORTHING amtliches-gebaeudeadressverzeichnis_ch_2056.csv > min_adr.csv
             for i in AI AG AR BE BL BS FR GE GL GR JU LU NE NW OW SG SH SO SZ TG TI UR VD VS ZG ZH;
               do
                 csvgrep -d ',' -c 'COM_CANTON' -m $i min_adr.csv > data/tmp;
