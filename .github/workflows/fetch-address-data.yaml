@@ -17,7 +17,7 @@ jobs:
         run: sudo apt-get install -y csvkit
 
       - name: Checkout the addresses
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: fetch csv.zip
         run: |
@@ -37,7 +37,13 @@ jobs:
           rm amtliches-gebaeudeadressverzeichnis_ch_2056.csv min_adr.csv data/tmp
           for i in AI AG AR BE BL BS FR GE GL GR JU LU NE NW OW SG SH SO SZ TG TI UR VD VS ZG ZH;
             do
-              rm data/$i-$(date --date="-1 month" +%Y-%m-%d).csv;
+              FILE=data/$i-$(date --date="-1 month" +%Y-%m-%d).csv
+              if [ -f $FILE ]; then
+                  echo "File $FILE exists and will be deleted."
+                  rm $FILE
+              else
+                  echo "File $FILE does not exist."
+              fi
             done
          
       - name: Push data to repo
