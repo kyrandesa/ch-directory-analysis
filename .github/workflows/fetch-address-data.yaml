@@ -3,7 +3,7 @@ run-name: Fetching address data from swisstopo
 #on: [push]
 on: 
     schedule:
-        - cron: '50 9 * * *'
+        - cron: '50 9 * * 1'
     workflow_dispatch:
 
 jobs:
@@ -14,7 +14,8 @@ jobs:
 
     steps:
       - name: install necessary packages
-        run: sudo apt-get install -y csvkit
+        #run: sudo apt-get install -y csvkit
+        run: brew install csvkit
 
       - name: Checkout the addresses
         uses: actions/checkout@v7
