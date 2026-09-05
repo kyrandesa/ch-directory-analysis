@@ -14,7 +14,9 @@ jobs:
 
     steps:
       - name: install necessary packages
-        run: sudo apt install -y csvkit
+        run: 
+            sudo apt-get update
+            sudo apt-get install -y csvkit
         #run: brew install csvkit
 
       - name: Checkout the addresses
