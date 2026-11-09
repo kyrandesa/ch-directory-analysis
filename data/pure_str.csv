@@ -689,7 +689,7 @@
 10210444;Usser Glas;7428 Tschappina;3669;Tschappina;GR;Street;real;true;23.07.2024;2746080.434;1171339.619;;
 10190865;Stutz;7304 Maienfeld;3953;Maienfeld;GR;Street;real;true;23.07.2024;2759125.744;1208228.344;;
 10216372;Via Samarovan;7605 Stampa;3792;Bregaglia;GR;Street;real;true;23.07.2024;2765527.483;1135132.51;;
-10257709;Senda Val d'Assa;7556 Ramosch;3764;Valsot;GR;Street;real;true;07.07.2026;2827704.1;1189734.58;;
+10257709;Senda Val d'Assa;7556 Ramosch;3764;Valsot;GR;Street;real;true;09.11.2026;2827704.1;1189734.58;;
 10259038;Via Pasqué;6557 Cama;3831;Cama;GR;Street;real;true;31.03.2025;2733478.484;1125288.044;;
 10060053;Kornplatz;7000 Chur;3901;Chur;GR;Place;real;true;23.07.2024;2759589.729;1190774.241;;
 10077329;Im unteren Stieg;7304 Maienfeld;3953;Maienfeld;GR;Street;real;true;23.07.2024;2759569.485;1208692.596;;
@@ -6704,7 +6704,7 @@
 10026989;Via Stretga;7017 Flims Dorf;3732;Flims;GR;Street;real;true;23.07.2024;2740916.667;1188984.988;;
 10024016;Aschera;7546 Ardez, 7553 Tarasp;3762;Scuol;GR;Street;real;true;23.07.2024;2812541.445;1183686.742;;
 10168662;Soarts;7083 Lantsch/Lenz;3513;Lantsch/Lenz;GR;Street;real;true;20.08.2024;2762057.605;1175070.566;;
-10078314;Raschvella;7556 Ramosch;3764;Valsot;GR;Street;real;true;07.07.2026;2827362.208;1192193.491;;
+10078314;Raschvella;7556 Ramosch;3764;Valsot;GR;Street;real;true;09.11.2026;2827362.208;1192193.491;;
 10094162;Via S. Clau;7189 Rueras;3986;Tujetsch;GR;Street;real;true;23.07.2024;2697285.843;1167893.145;;
 10211291;La-Nicca-Strasse;7000 Chur;3901;Chur;GR;Street;real;true;29.07.2024;2757492.636;1190747.87;;
 10147483;Stradun;7432 Zillis;3712;Zillis-Reischen;GR;Street;real;true;23.07.2024;2753496.681;1166640.56;;
@@ -8201,7 +8201,7 @@
 10236860;Route de la Pirra Grôche;1969 Trogne (St-Martin);6087;Saint-Martin (VS);VS;Street;real;true;11.11.2024;2601084.643;1112982.619;;
 10246807;Michligbodenweg;3995 Ernen;6056;Ernen;VS;Street;real;true;23.07.2024;2653015.203;1137021.371;;
 10189348;Chemin Sous-Maison;1963 Vétroz;6025;Vétroz;VS;Street;real;true;23.07.2024;2587822.349;1119255.04;;
-10236249;Route du Chapelet;1945 Petit Vichères (Liddes);6033;Liddes;VS;Street;real;false;23.07.2024;2578528.577;1093654.584;;
+10236249;Route du Chapelet;1945 Petit Vichères (Liddes);6033;Liddes;VS;Street;real;false;09.11.2026;2578560.75;1093484.41;;
 10133737;Chemin de la Brecca;1988 Les Collons;6089;Vex;VS;Street;real;true;23.07.2024;2596199.908;1115115.156;;
 10100021;Vers les Ponts;1929 Trient;6142;Trient;VS;Street;real;true;23.07.2024;2563783.023;1101595.269;;
 10102282;Rue de la Tzeneau;1976 Aven;6023;Conthey;VS;Street;real;true;23.07.2024;2587102.718;1120400.979;;
@@ -16966,7 +16966,7 @@
 10252513;Mossistrasse;3996 Binn;6054;Binn;VS;Street;real;true;23.07.2024;2657123.46;1134938.389;;
 10138340;Gsteingasse;3900 Brigerbad;6002;Brig-Glis;VS;Street;real;true;23.07.2024;2637093.135;1128158.032;;
 10047367;Zur Gasse;3954 Leukerbad;6111;Leukerbad;VS;Street;real;true;23.07.2024;2614480.221;1136659.979;;
-10237112;Biffigstrasse;3922 Eisten;6282;Eisten;VS;Street;real;true;06.01.2026;2635313.168;1117279.815;;
+10237112;Biffigstrasse;3922 Eisten;6282;Eisten;VS;Street;real;true;09.11.2026;2635244.996;1116700.654;;
 10256730;Place du Village;3960 Loc;6253;Crans-Montana;VS;Street;real;true;23.07.2024;2605626.127;1126871.193;;
 10168256;Impasse de Crouvalor;3961 Chandolin;6252;Anniviers;VS;Street;real;true;23.07.2024;2611794.496;1122473.53;;
 10210669;Route de l'Arbarey;1907 Saxon;6141;Saxon;VS;Street;real;true;23.07.2024;2579727.272;1108749.293;;
@@ -18720,6 +18720,7 @@
 10100857;Höllenweingasse;3970 Salgesch;6113;Salgesch;VS;Street;real;true;23.07.2024;2610117.726;1128839.876;;
 10195722;Alte Varenstrasse;3970 Salgesch;6113;Salgesch;VS;Street;real;true;23.07.2024;2611229.636;1129135.953;;
 10127730;Untere Mattenstrasse;3920 Zermatt;6300;Zermatt;VS;Street;real;true;23.07.2024;2624155.134;1097090.734;;
+10102311;Teheuge;1997 Haute-Nendaz;6024;Nendaz;VS;Street;real;false;09.11.2026;2588819.844;1114270.025;;
 10048460;Rue de la Verdure;3963 Crans VS;6240;Lens;VS;Street;real;true;23.07.2024;2601248.521;1127194.626;;
 10042635;Rue des Proz-Chevalleys;1957 Ardon;6021;Ardon;VS;Street;real;true;30.11.2024;2586000.562;1117418.301;;
 10251609;Oberer Eggaweg;3983 Bister;6172;Bister;VS;Street;real;true;23.07.2024;2648703.936;1134935.56;;
@@ -19168,6 +19169,7 @@
 10189355;Ze Binne;3996 Binn;6054;Binn;VS;Street;real;true;18.05.2026;2656662.651;1134516.096;;
 10130078;Chemin de Plan Pra;1936 Verbier;6037;Val de Bagnes;VS;Street;real;true;23.07.2024;2583049.769;1105406.924;;
 10167962;Rue du Transit-Sud;1957 Ardon;6021;Ardon;VS;Street;real;true;23.07.2024;2586366.143;1116762.357;;
+10045740;Les Mayens de Sion;1992 Les Mayens-de-Sion;6266;Sion;VS;Street;real;false;09.11.2026;2594745.926;1116844.147;;
 10181020;La Villette;1973 Nax;6090;Mont-Noble;VS;Street;real;true;23.07.2024;2598916.505;1119001.318;;
 10237256;Langfluhweg;3908 Saas-Balen;6289;Saas-Balen;VS;Street;real;true;23.07.2024;2638328.066;1112179.989;;
 10081300;Chemin des Jardins;1926 Fully;6133;Fully;VS;Street;real;true;23.07.2024;2575588.541;1109481.868;;
@@ -20214,7 +20216,7 @@
 10207243;Route de la Margueroula;3961 Ayer, 3961 Mission, 3961 St-Luc, 3961 Vissoie;6252;Anniviers;VS;Street;real;true;23.07.2024;2612305.929;1116357.898;;
 10095662;Lampertinguweg;3948 Unterems;6119;Turtmann-Unterems;VS;Street;real;true;23.07.2024;2619652.062;1126817.988;;
 10048239;La Millière;3977 Granges VS;6248;Sierre;VS;Street;real;true;23.07.2024;2602791.899;1124333.595;;
-10096769;Brich;3903 Mund;6007;Naters;VS;Street;real;true;25.11.2024;2637563.421;1128982.364;;
+10096769;Brich;3903 Mund;6007;Naters;VS;Street;real;true;09.11.2026;2637563.421;1128982.364;;
 10207476;Rue des Bolinziers;3961 Vissoie;6252;Anniviers;VS;Street;real;true;02.04.2025;2611562.421;1118197.637;;
 10236159;Gäwerwaldweg;3935 Bürchen;6193;Bürchen;VS;Street;real;true;23.07.2024;2629582.004;1124061.339;;
 10247094;Schulweg;3929 Täsch;6295;Täsch;VS;Street;real;true;23.07.2024;2626358.921;1101831.452;;
@@ -21591,6 +21593,7 @@
 10146891;Chemin des Coudreys;1991 Salins;6266;Sion;VS;Street;real;true;23.07.2024;2593966.286;1117521.131;;
 10154012;Rue de Chetzeron;3963 Crans-Montana;6253;Crans-Montana;VS;Street;real;true;23.07.2024;2602250.107;1128518.207;;
 10146638;Le Croux;1973 Nax;6090;Mont-Noble;VS;Street;real;true;23.07.2024;2599050.543;1119734.776;;
+10163336;Wüär;3998 Gluringen;6077;Goms;VS;Street;real;false;09.11.2026;2661017.003;1146358.945;;
 10237069;Desserte de Champ des Pierres Centre;1913 Saillon;6140;Saillon;VS;Street;real;true;23.07.2024;2580011.688;1113788.492;;
 10099944;Chemin du Château;1920 Martigny, 1928 Ravoire;6136;Martigny;VS;Street;real;true;23.07.2024;2571238.741;1105941.118;;
 10073572;Chemin des Collines;1950 Sion;6266;Sion;VS;Street;real;true;23.07.2024;2593478.539;1120095.772;;
@@ -22347,6 +22350,7 @@
 10171823;Chemin de la Cure;1968 Mase;6090;Mont-Noble;VS;Street;real;true;17.09.2024;2599492.913;1115922.817;;
 10237655;Promenade du Mauvoisin;1890 St-Maurice;6217;Saint-Maurice;VS;Street;real;true;23.07.2024;2566843.499;1117679.754;;
 10115700;Chemin des Molaires;1898 St-Gingolph;6155;Saint-Gingolph;VS;Street;real;true;23.07.2024;2553697.456;1137408.1;;
+10175851;Haus Boccalino;3908 Saas-Balen;6289;Saas-Balen;VS;Street;real;false;09.11.2026;2638248.364;1109327.773;;
 10082635;Schmittugasse;3953 Varen;6116;Varen;VS;Street;real;true;23.07.2024;2613013.665;1129630.66;;
 10236748;Rue du Milieu;3979 Grône;6238;Grône;VS;Street;real;true;23.07.2024;2601899.22;1122571.433;;
 10210648;Chemin du Home;1907 Saxon;6141;Saxon;VS;Street;real;true;23.07.2024;2580773.912;1111512.599;;
@@ -23318,6 +23322,7 @@
 10151170;Chemin du Pattier d'en Haut;1997 Haute-Nendaz;6024;Nendaz;VS;Street;real;true;23.07.2024;2589438.038;1114498.725;;
 10156730;Chemin de la Morintse;1936 Verbier;6037;Val de Bagnes;VS;Street;real;true;23.07.2024;2583986.068;1105712.043;;
 10246800;Figultiweg;3995 Steinhaus;6056;Ernen;VS;Street;real;true;05.10.2026;2657076.041;1141685.005;;
+10260206;Place de l'Abeille;1908 Riddes;6139;Riddes;VS;Place;real;true;09.11.2026;2583086.075;1113263.284;;
 10046034;Route de Zironde;3963 Aminona;6253;Crans-Montana;VS;Street;real;true;23.07.2024;2607054.074;1130948.525;;
 10189238;Südegg;3930 Visp;6297;Visp;VS;Street;real;true;23.07.2024;2634114.988;1124681.548;;
 10192799;Route du Creux de Nax;1973 Nax;6090;Mont-Noble;VS;Street;real;true;23.07.2024;2597990.527;1119323.858;;
@@ -23621,6 +23626,7 @@
 10158198;Route de Moère;1972 Anzère;6082;Ayent;VS;Street;real;true;23.07.2024;2596901.564;1126995.023;;
 10166473;Chemin des Planchamps;1934 Bruson;6037;Val de Bagnes;VS;Street;real;true;23.07.2024;2583129.772;1101624.875;;
 10158833;Chemin des Croix;1873 Champoussin;6157;Val-d'Illiez;VS;Street;real;true;23.07.2024;2555366.303;1117237.391;;
+10044819;Clos-aux-Boeufs;1872 Troistorrents;6156;Troistorrents;VS;Street;real;false;09.11.2026;2555937.938;1119506.009;;
 10055311;Anderledystrasse;3900 Brig;6002;Brig-Glis;VS;Street;real;true;23.07.2024;2642830.068;1129640.908;;
 10251610;Kapellebreite;3983 Bister;6172;Bister;VS;Street;real;true;23.07.2024;2648298.757;1134760.7;;
 10236855;Chemin des Soeurs;1978 Lens;6240;Lens;VS;Street;real;true;23.07.2024;2601139.665;1126308.657;;
@@ -23652,7 +23658,7 @@
 10258503;Chemin du Four;1968 Mase;6090;Mont-Noble;VS;Street;real;true;23.07.2024;2599660.252;1115845.513;;
 10201878;Passage des Oliviers;1920 Martigny;6136;Martigny;VS;Street;real;true;23.07.2024;2572121.199;1106493.906;;
 10045781;Sentier des Boutses;1914 Isérables;6134;Isérables;VS;Street;real;true;23.07.2024;2585678.238;1111181.907;;
-10130232;Route d'Ayent;1971 Grimisuat;6263;Grimisuat;VS;Street;real;true;19.06.2026;2596275.561;1123437.738;;
+10130232;Route d'Ayent;1971 Grimisuat;6263;Grimisuat;VS;Street;real;true;09.11.2026;2596276.108;1123437.9;;
 10257903;Route des Berges;1963 Vétroz;6025;Vétroz;VS;Street;real;true;23.07.2024;2588988.296;1116747.783;;
 10102984;Montatuay;1937 Orsières;6034;Orsières;VS;Street;real;true;21.08.2026;2577906.819;1096068.478;;
 10105728;Chemin de la Montagne;1897 Bouveret;6154;Port-Valais;VS;Street;real;true;23.07.2024;2554843.482;1136554.745;;
@@ -24208,7 +24214,6 @@
 10055449;Gasstrasse;4056 Basel;2701;Basel;BS;Street;real;true;23.07.2024;2610270.417;1268730.846;;
 10118095;Mariasteinstrasse;4054 Basel;2701;Basel;BS;Street;real;true;23.07.2024;2609996.515;1266464.339;;
 10026272;Eulenweg;4125 Riehen;2703;Riehen;BS;Street;real;true;23.07.2024;2615739.448;1268477.377;;
-10117904;Birsig-Parkplatz;4051 Basel;2701;Basel;BS;Street;real;false;04.11.2026;2611281.671;1266806.817;;
 10222762;Davidsbodenweglein;4056 Basel;2701;Basel;BS;Street;real;true;23.07.2024;2610200.329;1268593.219;;
 10190869;Bollweilerstrasse;4055 Basel;2701;Basel;BS;Street;real;true;23.07.2024;2609236.554;1268539.693;;
 10089314;Steinengasse;4126 Bettingen;2702;Bettingen;BS;Street;real;true;23.07.2024;2617577.499;1269115.588;;
@@ -24284,6 +24289,7 @@
 10172654;Rue du Crêt du Milieu;1945 Chandonne (Liddes);6033;Liddes;VS;Street;real;true;23.07.2024;2579972.597;1094828.467;;
 10237982;Zantostadol;3932 Visperterminen;6298;Visperterminen;VS;Street;real;true;23.07.2024;2634549.923;1124831.497;;
 10048730;Route de Bramois;1950 Sion, 1967 Bramois;6266;Sion;VS;Street;real;true;01.01.2026;2596858.964;1119622.235;;
+10076539;Jäuschbodo;3938 Ausserberg;6191;Ausserberg;VS;Area;real;false;09.11.2026;2632052.091;1129533.122;;
 10256717;Rue du Village;1928 Ravoire;6137;Martigny-Combe;VS;Street;real;true;23.07.2024;2570418.841;1105450.585;;
 10194567;Bisse de Vex venant de Nendaz;1992 Les Mayens-de-Sion;6266;Sion;VS;Street;real;true;23.07.2024;2594372.73;1116643.921;;
 10260332;Route de la Forêt des Bétrisey;1966 Signèse (Ayent);6082;Ayent;VS;Street;real;true;31.03.2025;2597578.408;1123340.944;;
@@ -25900,7 +25906,7 @@
 10236742;Riebe;3932 Visperterminen;6298;Visperterminen;VS;Street;real;true;15.04.2025;2634949.987;1125430.34;;
 10046019;Loyengässi;3953 Leuk Stadt;6110;Leuk;VS;Street;real;true;23.07.2024;2615067.994;1129540.321;;
 10159148;Passage des Haussex;1891 Vérossaz;6220;Vérossaz;VS;Street;real;true;23.07.2024;2565157.166;1117820.007;;
-10102386;Route de Botyre;1966 Blignou (Ayent), 1966 Botyre (Ayent);6082;Ayent;VS;Street;real;true;15.09.2025;2597216.624;1124776.097;;
+10102386;Route de Botyre;1966 Blignou (Ayent), 1966 Botyre (Ayent);6082;Ayent;VS;Street;real;true;09.11.2026;2597216.685;1124776.199;;
 10208402;Altenmattenstrasse;3918 Wiler (Lötschen);6202;Wiler (Lötschen);VS;Street;real;true;23.07.2024;2626772.506;1140399.039;;
 10133911;Route de la Croix;1921 Martigny-Croix;6137;Martigny-Combe;VS;Street;real;true;23.07.2024;2570272.624;1103718.551;;
 10050683;Chemin des Poiriers;1907 Saxon;6141;Saxon;VS;Street;real;true;23.07.2024;2578983.874;1110678.133;;
@@ -25999,7 +26005,7 @@
 10251776;Kirchweg;3928 Randa;6287;Randa;VS;Street;real;true;23.07.2024;2626737.134;1105522.613;;
 10134448;Les Marolies;3963 Crans-Montana;6253;Crans-Montana;VS;Street;real;true;23.07.2024;2604438.096;1130536.977;;
 10115699;Rue Pré du Pont;1868 Collombey;6152;Collombey-Muraz;VS;Street;real;true;23.07.2024;2562711.515;1124563.552;;
-10237556;Pfriischuweg;3946 Turtmann;6119;Turtmann-Unterems;VS;Street;real;true;23.07.2024;2620918.319;1127635.658;;
+10237556;Pfriischuweg;3946 Turtmann;6119;Turtmann-Unterems;VS;Street;real;true;09.11.2026;2621212.014;1127672.379;;
 10260195;Rue des Vergers;3965 Chippis;6248;Sierre;VS;Street;real;true;22.06.2026;2607532.015;1125456.696;10048401;
 10126840;Route du Mont;1903 Collonges;6211;Collonges;VS;Street;real;true;23.07.2024;2569412.496;1115220.477;;
 10206854;La Roâ;3961 St-Jean VS;6252;Anniviers;VS;Street;real;true;02.04.2025;2611324.437;1116165.63;;
@@ -27419,6 +27425,7 @@
 10138950;Chemin des Clojouès;3963 Aminona;6253;Crans-Montana;VS;Street;real;true;23.07.2024;2606752.578;1131379.345;;
 10145247;Chemin du Pô;1986 Arolla;6083;Evolène;VS;Street;real;true;02.02.2026;2603809.209;1099576.306;;
 10105696;Chemin de Piaville;1968 Mase;6090;Mont-Noble;VS;Street;real;true;23.07.2024;2599653.736;1115851.619;;
+10189329;Stapfen;3904 Naters;6007;Naters;VS;Street;real;false;09.11.2026;2643527.063;1130670.05;;
 10099943;Chemin des Sorbiers;1920 Martigny;6136;Martigny;VS;Street;real;true;23.07.2024;2572116.987;1105470.868;;
 10184260;Route de Courtille;1981 Vex;6089;Vex;VS;Street;real;true;23.07.2024;2597257.153;1117312.756;;
 10061091;Route de Champex;1871 Choëx;6153;Monthey;VS;Street;real;true;23.07.2024;2562089.655;1121352.333;;
@@ -29247,6 +29254,7 @@
 10237584;Route des Vignes;1932 Bovernier;6131;Bovernier;VS;Street;real;true;23.07.2024;2572007.906;1103305.783;;
 10162212;Route de Assa;1977 Icogne;6239;Icogne;VS;Street;real;true;23.07.2024;2600063.302;1127363.629;;
 10255950;Route de Prossèguedâme;1963 Vétroz;6025;Vétroz;VS;Street;real;true;23.07.2024;2588816.77;1118894.235;;
+10206288;Dorbagnon;1965 Savièse;6265;Savièse;VS;Street;real;false;09.11.2026;2590651.891;1128953.145;;
 10170638;Chemin des Ruches;1982 Euseigne;6084;Hérémence;VS;Street;real;true;23.07.2024;2599158.32;1113217.466;;
 10017417;Hürnrain;6252 Dagmersellen;1125;Dagmersellen;LU;Street;real;true;23.07.2024;2641956.312;1229037.151;;
 10108087;Chilchlimatte;6214 Schenkon;1099;Schenkon;LU;Street;real;true;23.07.2024;2652875.683;1225010.127;;
@@ -29999,6 +30007,7 @@
 10012284;Obere Rosmattenstrasse;3986 Ried-Mörel;6181;Riederalp;VS;Street;real;true;23.07.2024;2645547.857;1134110.437;;
 10103981;Chemin de Ley de Sion;3971 Chermignon;6253;Crans-Montana;VS;Street;real;true;23.07.2024;2602633.951;1126092.921;;
 10193592;Chemin du Milieu;1958 St-Léonard;6246;Saint-Léonard;VS;Street;real;true;23.07.2024;2599283.76;1122449.843;;
+10261921;Undri Senggalp;3943 Eischoll;6194;Eischoll;VS;Street;real;true;09.11.2026;2624690.178;1126174.889;;
 10151368;Passage de l'Eugine;1902 Evionnaz;6213;Evionnaz;VS;Street;real;true;12.06.2026;2567154.862;1114744.512;;
 10254471;Chemin de Tsannou;1976 Erde;6023;Conthey;VS;Street;real;true;23.07.2024;2588060.733;1120227.25;;
 10043369;Chemin Cavoué-Bassex;1891 Vérossaz;6220;Vérossaz;VS;Street;real;true;23.07.2024;2565424.437;1117709.779;;
@@ -31254,7 +31263,7 @@
 10114665;Neuhaltenring;6030 Ebikon;1052;Buchrain;LU;Street;real;true;23.07.2024;2668891.111;1215755.734;;
 10014826;Büttenenring;6006 Luzern;1061;Luzern;LU;Street;real;true;23.07.2024;2669664.485;1211877.314;;
 10074725;Obernauerstrasse;6010 Kriens, 6012 Obernau;1059;Kriens;LU;Street;real;true;01.02.2025;2662781.521;1209606.645;;
-10015056;Zentralstrasse;6003 Luzern;1061;Luzern;LU;Street;real;true;23.07.2024;2666181.348;1211177.371;;
+10015056;Zentralstrasse;6003 Luzern;1061;Luzern;LU;Street;real;true;09.11.2026;2666181.348;1211177.371;;
 10012539;Mühleweg;6205 Eich;1084;Eich;LU;Street;real;true;23.07.2024;2655505.848;1222535.286;;
 10192319;Bifangweg;6233 Büron;1082;Büron;LU;Street;real;true;23.07.2024;2649600.508;1229005.559;;
 10210027;Weinmarktgasse;6004 Luzern;1061;Luzern;LU;Street;real;true;23.07.2024;2665762.026;1211565.936;;
@@ -31608,6 +31617,7 @@
 10236948;Dammweg;3970 Salgesch;6113;Salgesch;VS;Street;real;true;23.07.2024;2610236.85;1127937.114;;
 10159156;Route des Bassex;1891 Vérossaz;6220;Vérossaz;VS;Street;real;true;23.07.2024;2565416.921;1117498.468;;
 10133298;Chemin de la Margotte;1994 Aproz (Nendaz);6024;Nendaz;VS;Street;real;true;23.07.2024;2590270.073;1116918.539;;
+10158424;Haus Asinara;3908 Saas-Balen;6289;Saas-Balen;VS;Area;real;false;09.11.2026;2638178.028;1109447.769;;
 10237010;Chemin des Cornes;1890 St-Maurice;6217;Saint-Maurice;VS;Street;real;true;23.07.2024;2566490.889;1116167.421;;
 10209039;Breitlehnstrasse;6106 Werthenstein;1009;Werthenstein;LU;Street;real;true;23.07.2024;2649666.55;1211090.201;;
 10187307;Chäsirain;6214 Schenkon;1099;Schenkon;LU;Street;real;true;23.07.2024;2652814.402;1225393.924;;
@@ -37698,7 +37708,7 @@
 10262182;ur Sentée dro Murín;6966 Villa Luganese;5192;Lugano;TI;Street;real;true;01.04.2025;2720263.094;1101558.765;;
 10122115;Rue du Village;1053 Bretigny-sur-Morrens;5515;Bretigny-sur-Morrens;VD;Street;real;true;09.12.2025;2538958.583;1161043.054;;
 10160153;Rue de la Combe;1128 Reverolle;5656;Hautemorges;VD;Street;real;true;23.07.2024;2523145.304;1154594.443;;
-10048070;Chemin du Stand;1009 Pully;5590;Pully;VD;Street;real;true;26.08.2026;2541012.651;1152535.436;;
+10048070;Chemin du Stand;1009 Pully, 1068 Les Monts-de-Pully;5590;Pully;VD;Street;real;true;26.08.2026;2541012.651;1152535.436;;
 10154303;Chemin des Rionzonnes;1350 Orbe;5757;Orbe;VD;Street;real;true;23.07.2024;2530665.536;1175808.907;;
 10044986;Chemin des Golliettes;1032 Romanel-sur-Lausanne;5592;Romanel-sur-Lausanne;VD;Street;real;true;23.07.2024;2535930.708;1157735.298;;
 10035654;Chemin des Berges;1022 Chavannes-près-Renens;5627;Chavannes-près-Renens;VD;Street;real;true;23.07.2024;2533808.638;1153140.272;;
@@ -50823,7 +50833,7 @@
 10066483;Mühlestrasse;8840 Einsiedeln;1301;Einsiedeln;SZ;Street;real;true;23.07.2024;2699138.298;1220282.469;;
 10019371;Grotzenmühlestrasse;8840 Einsiedeln;1301;Einsiedeln;SZ;Street;real;true;02.03.2026;2698507.938;1220075.729;;
 10185556;Rütistrasse;8844 Euthal;1301;Einsiedeln;SZ;Street;real;true;23.07.2024;2704565.848;1215655.903;;
-10066810;Seedammstrasse;8640 Hurden, 8808 Pfäffikon SZ;1322;Freienbach;SZ;Street;real;true;26.01.2026;2703102.614;1230070.986;;
+10066810;Seedammstrasse;8640 Hurden, 8808 Pfäffikon SZ;1322;Freienbach;SZ;Street;real;true;09.11.2026;2703102.614;1230070.986;;
 10091518;Postgässli;6417 Sattel;1371;Sattel;SZ;Street;real;true;04.05.2026;2690748.512;1214961.793;;
 10235923;Schulhausstrasse;8835 Feusisberg;1321;Feusisberg;SZ;Street;real;true;23.07.2024;2699329.758;1227145.956;;
 10020542;Felbachernstrasse;6417 Sattel;1371;Sattel;SZ;Street;real;true;11.05.2026;2690961.264;1214448.314;;
@@ -52365,7 +52375,7 @@
 10140009;Durstenstrasse;8264 Eschenz;4806;Eschenz;TG;Street;real;true;23.07.2024;2708347.307;1278003.924;;
 10160573;Kreuzstrasse;8525 Wilen b. Neunforn;4601;Neunforn;TG;Street;real;true;21.05.2026;2702641.799;1272789.692;;
 10177705;Axenstrasse;6452 Sisikon;1217;Sisikon;UR;Street;real;true;05.01.2026;2689740.678;1199282.687;;
-10188515;Vogelholz;6473 Silenen;1216;Silenen;UR;Street;real;true;01.12.2025;2694334.336;1182408.252;;
+10188515;Vogelholz;6473 Silenen;1216;Silenen;UR;Street;real;true;09.11.2026;2694370.917;1182460.926;;
 10088113;Rossboden;6490 Andermatt;1202;Andermatt;UR;Street;real;true;23.07.2024;2690808.17;1165630.623;;
 10014927;Spissweg;6463 Bürglen UR;1205;Bürglen (UR);UR;Street;real;true;23.07.2024;2692968.851;1192363.612;;
 10139509;Allmendstrasse;6460 Altdorf UR;1201;Altdorf (UR);UR;Street;real;true;23.07.2024;2690504.294;1193902.411;;
@@ -52539,7 +52549,7 @@
 10208969;Schächenrüti;6467 Schattdorf;1213;Schattdorf;UR;Street;real;true;23.07.2024;2692018.914;1191008.549;;
 10180545;Bänzig;6464 Spiringen;1218;Spiringen;UR;Street;real;true;23.07.2024;2699162.075;1192360.514;;
 10081165;Gotthardstrasse;6473 Silenen, 6474 Amsteg;1216;Silenen;UR;Street;real;true;06.09.2024;2693755.576;1183814.219;;
-10013734;Flüelerstrasse;6460 Altdorf UR;1201;Altdorf (UR);UR;Street;real;true;23.07.2024;2690983.717;1193640.516;;
+10013734;Flüelerstrasse;6460 Altdorf UR;1201;Altdorf (UR);UR;Street;real;true;09.11.2026;2690958.142;1193666.908;;
 10013754;Schmiedgasse;6460 Altdorf UR;1201;Altdorf (UR);UR;Street;real;true;23.07.2024;2691859.375;1192940.454;;
 10113875;Reussstrasse;6460 Altdorf UR;1201;Altdorf (UR);UR;Street;real;true;06.09.2024;2690093.484;1193546.198;;
 10062623;Riedli;6473 Silenen;1216;Silenen;UR;Street;real;true;23.07.2024;2694025.341;1183830.495;;
@@ -55157,7 +55167,7 @@
 10105772;Mühleweg;6493 Hospental;1210;Hospental;UR;Street;real;true;23.07.2024;2686593.942;1163713.339;;
 10174315;Tanzplatz;6377 Seelisberg;1215;Seelisberg;UR;Street;real;true;23.07.2024;2687200.742;1202419.278;;
 10207449;Furkagasse;6490 Andermatt;1202;Andermatt;UR;Street;real;true;07.05.2026;2688148.74;1165919.456;;
-10158014;RUAG-Areal Schächenwald;6467 Schattdorf;1213;Schattdorf;UR;Street;real;true;15.12.2025;2691462.472;1190765.71;;
+10158014;RUAG-Areal Schächenwald;6467 Schattdorf;1213;Schattdorf;UR;Street;real;true;09.11.2026;2691492.146;1190651.973;;
 10013737;Grenzgasse;6460 Altdorf UR;1201;Altdorf (UR);UR;Street;real;true;06.09.2024;2691999.724;1191996.942;;10088128
 10242568;A2;6377 Seelisberg;1215;Seelisberg;UR;Street;real;true;06.09.2024;2685378.414;1199377.123;;
 10062120;Baumgartenstrasse;6460 Altdorf UR;1201;Altdorf (UR);UR;Street;real;true;23.07.2024;2691693.166;1192844.498;;
@@ -95920,6 +95930,8 @@
 10264582;Les Mouilles;2087 Cornaux NE;6451;Cornaux;NE;Area;real;true;01.11.2026;2567759.998;1208082.124;;
 10264531;Placette Marie-Eléonore-d'Olcah;1004 Lausanne;5586;Lausanne;VD;Place;real;true;05.11.2026;2538032.737;1152779.188;;
 10264530;Place des Artisanes;1003 Lausanne;5586;Lausanne;VD;Place;planned;true;05.11.2026;2538291.415;1152488.809;;
+10264586;Kleinhüninger Gärtlein;4057 Basel;2701;Basel;BS;Place;real;true;09.11.2026;2611510.784;1270358.567;;
+10264594;Piazza Loreto;6745 Giornico;5073;Giornico;TI;Place;real;true;07.11.2026;2710683.232;1140042.989;;
 10156062;Weid;4495 Zeglingen;2868;Zeglingen;BL;Area;real;true;23.07.2024;2637696.288;1252069.058;;
 10186633;Trempenberg;8718 Schänis;3315;Schänis;SG;Area;real;false;22.10.2026;2723677.174;1222115.667;;
 10264581;Lindstockweid;6373 Ennetbürgen;1505;Ennetbürgen;NW;Area;real;true;01.11.2026;2673935.679;1205519.15;;
@@ -125442,7 +125454,7 @@
 10033501;Elsenackerstrasse;9450 Altstätten SG;3251;Altstätten;SG;Street;real;true;22.08.2026;2759164.904;1249823.218;;
 10025161;Amselstrasse;9230 Flawil;3402;Flawil;SG;Street;real;true;22.08.2026;2731062.873;1253235.047;;
 10249874;Widenweg;9473 Gams;3272;Gams;SG;Street;real;true;22.08.2026;2751572.177;1229483.586;;
-10227008;Gitzibüelweg;9011 St. Gallen, 9016 St. Gallen, 9037 Speicherschwendi;3203;St. Gallen;SG;Street;real;true;22.08.2026;2749534.933;1255245.955;;
+10227008;Gitzibüelweg;9011 St. Gallen, 9016 St. Gallen, 9037 Speicherschwendi;3203;St. Gallen;SG;Street;real;true;09.11.2026;2749547.884;1255259.685;;
 10231903;Alpenmoosstrasse;9534 Gähwil;3392;Kirchberg (SG);SG;Street;real;true;22.08.2026;2717927.583;1251930.224;;
 10032104;Eschenstrasse;9533 Kirchberg SG;3392;Kirchberg (SG);SG;Street;real;true;22.08.2026;2720754.541;1252770.474;;
 10230581;Ebersbergstrasse;8889 Plons;3293;Mels;SG;Street;real;true;22.08.2026;2747221.888;1214157.757;;
@@ -125453,7 +125465,7 @@
 10233705;Ziegelhüttenweg;9500 Wil SG;3427;Wil (SG);SG;Street;real;true;22.08.2026;2720694.558;1259110.837;;
 10025356;Harmonieweg;9601 Lütisburg Station;3393;Lütisburg;SG;Street;real;true;22.08.2026;2723073.885;1249831.453;;
 10224599;Waldauweg;9404 Rorschacherberg;3216;Rorschacherberg;SG;Street;real;true;22.08.2026;2757246.087;1260726.121;;
-10224105;Enzgweg;8723 Maseltrangen, 8723 Rufi;3315;Schänis;SG;Street;real;true;22.08.2026;2722727.723;1227592.188;;
+10224105;Enzgweg;8723 Maseltrangen, 8723 Rufi;3315;Schänis;SG;Street;real;true;09.11.2026;2722686.059;1227569.29;;
 10093835;Sonneggstrasse;9113 Degersheim;3401;Degersheim;SG;Street;real;true;22.08.2026;2732619.882;1248260.695;;
 10154489;Gerstenmoosstrasse;9204 Andwil SG;3441;Andwil (SG);SG;Street;real;true;22.08.2026;2739458.169;1257237.854;;
 10250161;Gasenzenbachstrasse;9469 Haag (Rheintal), 9473 Gams;3274;Sennwald;SG;Street;real;true;22.08.2026;2754297.986;1231626.215;;
@@ -130229,8 +130241,8 @@
 10264558;al Teciáll;6951 Insone;5192;Lugano;TI;Street;real;false;02.10.2026;2722965.127;1105255.849;;
 10264526;Rue Pauline-Buisson;1400 Yverdon-les-Bains;5938;Yverdon-les-Bains;VD;Street;planned;true;15.10.2026;2539319.349;1181439.956;;
 10264570;Bruggwäg;7075 Churwalden;3911;Churwalden;GR;Street;real;true;10.10.2026;2760748.739;1182808.499;;
-10264587;Am Birsigbogen;4051 Basel;2701;Basel;BS;Street;real;true;04.11.2026;2611286.805;1266811.607;;
-10264585;Milchsuppeweg;4055 Basel;2701;Basel;BS;Street;real;true;04.11.2026;2609327;1268780.3;;
+10264587;Am Birsigbogen;4051 Basel;2701;Basel;BS;Street;real;true;09.11.2026;2611281.671;1266806.817;;
+10264585;Milchsuppeweg;4055 Basel;2701;Basel;BS;Street;real;true;09.11.2026;2609326.298;1268777.295;;
 10215026;Jetée d'Osches;1006 Lausanne;5586;Lausanne;VD;Street;real;false;27.08.2026;2537622.606;1150784.252;;
 10211527;Clos des Cigognes;1135 Denens;5631;Denens;VD;Street;real;true;27.08.2026;2524392.58;1152428.632;;
 10215027;Cap de Vaudaire;1006 Lausanne;5586;Lausanne;VD;Street;real;false;27.08.2026;2537746.492;1150704.604;;
@@ -132876,7 +132888,7 @@
 10091289;Brunnentobelstrasse;9410 Heiden;3032;Heiden;AR;Street;real;true;23.07.2024;2757459.165;1256504.258;;
 10124097;Egglistrasse;9053 Teufen AR;3024;Teufen (AR);AR;Street;real;true;10.11.2025;2746383.268;1250618.877;;
 10031877;Tobelstrasse;9037 Speicherschwendi;3023;Speicher;AR;Street;real;true;07.11.2025;2751017.096;1255167.995;;
-10223113;Tobel;9107 Urnäsch;3002;Hundwil;AR;Street;real;false;23.07.2024;2740472.545;1244682.72;;
+10223113;Tobel;9107 Urnäsch;3002;Hundwil;AR;Street;real;false;09.11.2026;2740374.412;1244675.057;;
 10110829;Schlössli;9103 Schwellbrunn;3004;Schwellbrunn;AR;Street;real;true;10.11.2025;2736856.786;1246503.047;;
 10089898;Bleichestrasse;9427 Wolfhalden;3038;Wolfhalden;AR;Street;real;true;07.11.2025;2759377.668;1258338.477;;
 10147658;Edelgrueb;9055 Bühler;3021;Bühler;AR;Street;real;true;29.07.2026;2749485.805;1248681.703;;
@@ -133144,7 +133156,7 @@
 10067934;Heidenerstrasse;9038 Rehetobel;3034;Rehetobel;AR;Street;real;true;07.11.2025;2754875.558;1254956.735;;
 10091566;Täschenstrasse;9410 Heiden;3032;Heiden;AR;Street;real;true;23.02.2026;2757821.077;1256389.92;;
 10211942;Hohbergstrasse;9100 Herisau;3001;Herisau;AR;Street;real;true;12.10.2025;2739346.928;1248096.492;;
-10223102;Bühl;9107 Urnäsch;3002;Hundwil;AR;Street;real;false;23.07.2024;2742096.534;1244087.226;;
+10223102;Bühl;9107 Urnäsch;3002;Hundwil;AR;Street;real;false;09.11.2026;2742096.534;1244087.226;;
 10125744;Kreuzeggweg;8400 Winterthur;230;Winterthur;ZH;Street;real;true;23.07.2024;2698372.945;1260929.611;;
 10079997;Längerenrüti;8474 Dinhard;216;Dinhard;ZH;Street;real;true;23.07.2024;2699337.361;1269215.555;;
 10119554;Chavez-Allee;8152 Glattpark (Opfikon);66;Opfikon;ZH;Street;real;true;04.06.2026;2684730.64;1252994.619;;
@@ -156351,7 +156363,7 @@
 10111506;Feldstrasse;8330 Pfäffikon ZH;177;Pfäffikon;ZH;Street;real;true;26.01.2026;2701105.394;1247997.812;;
 10176168;Claisbergstrasse;8413 Neftenbach;223;Neftenbach;ZH;Street;real;true;23.07.2024;2691172.753;1264580.23;;
 10064450;Brunnenwiese;8132 Egg b. Zürich;192;Egg;ZH;Street;real;true;23.07.2024;2694341.119;1239098.445;;
-10172991;Bahnweg;8304 Wallisellen;69;Wallisellen;ZH;Street;real;true;23.07.2024;2686066.021;1251997.492;;
+10172991;Bahnweg;8304 Wallisellen;69;Wallisellen;ZH;Street;real;true;09.11.2026;2686330.924;1252007.982;;
 10173840;Züriweg;8908 Hedingen;5;Hedingen;ZH;Street;real;true;23.07.2024;2676393.029;1239250.412;;
 10001696;Gartenstrasse;8800 Thalwil;141;Thalwil;ZH;Street;real;true;23.07.2024;2685182.15;1238253.156;;
 10151777;Wandstrasse;8427 Rorbas;68;Rorbas;ZH;Street;real;true;23.07.2024;2684704.074;1265775.33;;
@@ -157142,7 +157154,7 @@
 10178715;Würzwies;8064 Zürich;261;Zürich;ZH;Street;real;true;23.07.2024;2679596.923;1250172.059;;
 10000702;Grabenwiese;8484 Weisslingen;180;Weisslingen;ZH;Street;real;true;26.01.2026;2700624.757;1253777.308;;
 10058749;Lavaterstrasse;8002 Zürich;261;Zürich;ZH;Street;real;true;23.02.2026;2682644.503;1246241.36;;
-10084331;Neue Winterthurerstrasse;8304 Wallisellen;69;Wallisellen;ZH;Street;real;true;27.10.2026;2687204.197;1251558.801;;
+10084331;Neue Winterthurerstrasse;8304 Wallisellen;69;Wallisellen;ZH;Street;real;true;09.11.2026;2687204.197;1251558.801;;
 10152710;Gärtliweg;8951 Fahrweid;244;Geroldswil;ZH;Street;real;true;23.07.2024;2673559.184;1251667.303;;
 10194426;Seemerrütiweg;8483 Kollbrunn;231;Zell (ZH);ZH;Street;real;true;23.07.2024;2700412.613;1257157.128;;
 10008201;Kirchgasse;8610 Uster;198;Uster;ZH;Street;real;true;23.07.2024;2696621.667;1244763.347;;
@@ -161962,7 +161974,7 @@
 10020617;Gerenweg;8498 Gibswil;114;Fischenthal;ZH;Street;real;true;23.07.2024;2711466.477;1241196.46;;
 10242683;Ohringerbachstrasse;8472 Oberohringen, 8472 Unterohringen;227;Seuzach;ZH;Street;real;true;09.01.2026;2695112.568;1265356.413;;
 10004245;Werdinsel;8049 Zürich;261;Zürich;ZH;Street;real;true;23.07.2024;2679056.063;1250494.056;;
-10192080;Jakob-Wegmann-Weg;8304 Wallisellen;69;Wallisellen;ZH;Street;real;true;23.07.2024;2685862.889;1251881.562;;
+10192080;Jakob-Wegmann-Weg;8304 Wallisellen;69;Wallisellen;ZH;Street;real;true;09.11.2026;2686010.394;1251944.144;;
 10081730;Berghaldenstrasse;8053 Zürich;261;Zürich;ZH;Street;real;true;02.03.2026;2687125.814;1245854.233;;
 10201958;Buckstrasse;8421 Dättlikon;215;Dättlikon;ZH;Street;real;true;23.07.2024;2688931.763;1265230.985;;
 10245532;Wissenzaumweg;8307 Effretikon;296;Illnau-Effretikon;ZH;Street;real;true;23.07.2024;2695066.873;1252943.786;;
@@ -165235,7 +165247,7 @@
 10163667;Schluchenstrasse;8885 Mols;3295;Quarten;SG;Street;real;true;22.08.2026;2740844.58;1219565.563;;
 10107231;Hodlerstrasse;9008 St. Gallen;3203;St. Gallen;SG;Street;real;true;22.08.2026;2747520.023;1255966.363;;
 10088610;Wiesengrund;9323 Steinach;3217;Steinach;SG;Street;real;true;22.08.2026;2751383.96;1262712.18;;
-10264364;Schnetzlers;9050 Appenzell Steinegg;3112;Schwende-Rüte;AI;Street;planned;true;16.07.2026;2750924.533;1243055.682;;
+10264364;Schnetzlers;9050 Appenzell Steinegg;3112;Schwende-Rüte;AI;Street;planned;true;09.11.2026;2750927.053;1243054.708;;
 10264365;Bergliwald;8865 Bilten;1630;Glarus Nord;GL;Place;real;true;05.08.2026;2719758.883;1223136.076;;
 10233623;Untersand;9464 Lienz;3251;Altstätten;SG;Street;real;true;22.08.2026;2757789.318;1237631.734;;
 10091945;Bergweidstrasse;9200 Gossau SG;3443;Gossau (SG);SG;Street;real;true;22.08.2026;2736764.237;1252265.803;;
@@ -174059,7 +174071,6 @@
 10236288;La Chaux;1944 La Fouly VS;6034;Orsières;VS;Area;real;true;29.09.2025;2576428.999;1083579.141;;
 10152783;Arpalle;1944 La Fouly VS;6034;Orsières;VS;Area;real;true;11.06.2025;2574515.819;1086310.079;;
 10236736;Traverse des Vernes;1913 Saillon;6140;Saillon;VS;Area;real;true;13.11.2025;2580003.565;1112654.892;;
-10102311;Teheuge;1997 Haute-Nendaz;6024;Nendaz;VS;Area;real;false;14.11.2025;2588731;1114264;;
 10261970;Susanfe;1902 Evionnaz;6213;Evionnaz;VS;Area;real;true;12.11.2025;2557551.537;1109833.753;;
 10102375;Milimatte;3998 Reckingen VS;6077;Goms;VS;Street;real;false;13.11.2025;2662123;1146666;;
 10192959;Alpe Rothwald;3901 Rothwald;6008;Ried-Brig;VS;Area;real;false;04.12.2024;2646494;1125702;;
@@ -174111,7 +174122,6 @@
 10262004;Barberine;1923 Les Marécottes;6218;Salvan;VS;Area;real;true;12.11.2025;2559689.535;1104032.863;;
 10137940;Schwarzsee;3920 Zermatt;6300;Zermatt;VS;Street;real;false;23.07.2024;2621042;1093312;;
 10150525;Haus Daniel;3905 Saas-Almagell;6288;Saas-Almagell;VS;Area;real;false;04.12.2024;2638964;1106556;;
-10045740;Les Mayens de Sion;1992 Les Mayens-de-Sion;6266;Sion;VS;Area;real;false;14.11.2025;2594746;1116884;;
 10150603;Almagelleralp;3905 Saas-Almagell;6288;Saas-Almagell;VS;Area;real;false;04.12.2024;2642235;1105663;;
 10257245;Faldummatten;3916 Ferden;6195;Ferden;VS;Area;real;true;11.06.2025;2623476.049;1136442.135;;
 10236726;Obri Siite;3932 Visperterminen;6298;Visperterminen;VS;Area;real;true;11.06.2025;2637395.041;1121017.696;;
@@ -174498,7 +174508,6 @@
 10208043;Sanetsch;1965 Savièse;6265;Savièse;VS;Area;real;false;14.11.2025;2590060;1129618;;
 10185959;Camping du Robinson;3977 Granges VS;6248;Sierre;VS;Area;real;false;04.12.2024;2602699;1123702;;
 10118461;Griebja;3983 Greich;6181;Riederalp;VS;Street;real;true;13.11.2025;2645979;1135747;;
-10163336;Wüär;3998 Gluringen;6077;Goms;VS;Street;real;false;13.11.2025;2661000;1146412;;
 10041528;Polti;3911 Ried-Brig;6008;Ried-Brig;VS;Area;real;true;12.11.2025;2645077.316;1129512.874;;
 10236283;Grands Dessous;1929 Trient;6142;Trient;VS;Area;real;true;12.11.2025;2566622.568;1097153.24;;
 10079028;Bodma;3932 Visperterminen;6298;Visperterminen;VS;Area;real;true;11.06.2025;2636602.349;1124261.882;;
@@ -174596,7 +174605,6 @@
 10261111;La Crettaz;1920 Martigny;6137;Martigny-Combe;VS;Area;real;true;11.06.2025;2566364.358;1104792.14;;
 10076525;Unterdorf;3993 Grengiols;6177;Grengiols;VS;Area;real;false;14.11.2025;2650374;1136026;;
 10209912;Oberaletschhütte;3914 Belalp;6007;Naters;VS;Area;real;true;13.02.2025;2641432;1141622;;
-10175851;Haus Boccalino;3908 Saas-Balen;6289;Saas-Balen;VS;Area;real;false;14.11.2025;2638231;1109313;;
 10236946;Litro;1925 Finhaut;6214;Finhaut;VS;Area;real;true;12.11.2025;2563252.614;1101582.486;;
 10068889;Stock;3924 St. Niklaus VS;6292;St. Niklaus;VS;Area;real;true;12.11.2025;2628067.172;1113400.519;;
 10133479;Le Châtelard;1921 Martigny-Croix;6137;Martigny-Combe;VS;Street;real;false;13.11.2025;2569245;1102586;;
@@ -174717,7 +174725,6 @@
 10068512;Les Attelas;1936 Verbier;6037;Val de Bagnes;VS;Area;real;true;12.11.2025;2586810.923;1105313.824;;
 10145317;Blüomatt;3946 Gruben;6112;Oberems;VS;Area;real;true;23.04.2026;2620028;1116757;;
 10043753;Le Lébas;1923 Le Trétien;6218;Salvan;VS;Area;real;true;12.11.2025;2565926.025;1105572.988;;
-10260206;Place de l'Abeille;1908 Riddes;6139;Riddes;VS;Place;real;true;13.11.2025;2583086;1113263;;
 10108584;Moret;1929 Trient;6142;Trient;VS;Area;real;true;11.06.2025;2565763.685;1100028.172;;
 10261988;Wiichjienweg;3923 Törbel;6296;Törbel;VS;Street;real;true;13.11.2025;2631213;1121659;;
 10048499;Vermala;3963 Crans-Montana;6253;Crans-Montana;VS;Area;real;false;14.11.2025;2603839;1129547;;
@@ -174756,7 +174763,6 @@
 10047700;Egga;3932 Visperterminen;6298;Visperterminen;VS;Area;real;true;11.06.2025;2636438.985;1122045.964;;
 10133926;Blewistei;3947 Ergisch;6104;Ergisch;VS;Area;real;true;11.06.2026;2621185;1126751;;
 10241111;Weeschtumattenweg;3919 Blatten (Lötschen);6192;Blatten;VS;Area;real;true;04.11.2025;2627950;1139839;;
-10044819;Clos-aux-Boeufs;1872 Troistorrents;6156;Troistorrents;VS;Area;real;false;14.11.2025;2555934;1119499;;
 10209781;Zinalrothore;3920 Zermatt;6300;Zermatt;VS;Street;real;false;23.07.2024;2620029;1099650;;
 10149018;Vers les Moulins;1922 Salvan;6218;Salvan;VS;Area;real;true;12.11.2025;2567732.031;1107479.899;;
 10236767;Le Plandichenètse;3960 Loc;6253;Crans-Montana;VS;Area;real;true;13.11.2025;2605354.178;1127204.597;;
@@ -174846,7 +174852,6 @@
 10057024;Sunnegga;3920 Zermatt;6300;Zermatt;VS;Street;real;false;23.07.2024;2625761;1096133;;
 10246814;Lärchendörfli;3995 Ernen;6056;Ernen;VS;Area;real;true;12.11.2025;2654106.156;1138594.193;;
 10046348;Les Combes;1929 Trient;6142;Trient;VS;Area;real;true;11.06.2025;2565679.457;1100275.651;;
-10076539;Jäuschbodo;3938 Ausserberg;6191;Ausserberg;VS;Area;real;false;13.11.2025;2632037;1129522;;
 10174456;Fiescheralp;3984 Fiesch;6057;Fiesch;VS;Area;real;true;03.12.2025;2650975;1140242;;
 10075703;Le Plan;1929 Trient;6142;Trient;VS;Area;real;false;12.11.2025;2563691.795;1101739.832;;
 10144684;Parlei;3923 Törbel;6296;Törbel;VS;Area;real;false;14.11.2025;2631200;1119420;;
@@ -175578,7 +175583,6 @@
 10145008;Kastelen;6248 Alberswil;1121;Alberswil;LU;Area;real;true;12.11.2025;2642196.831;1221963.346;;
 10236279;Grand-Jeur;1929 Trient;6142;Trient;VS;Area;real;true;12.11.2025;2562666.212;1099157.04;;
 10208385;Miljüt;3953 Inden;6109;Inden;VS;Area;real;false;14.11.2025;2613283;1133386;;
-10189329;Stapfen;3904 Naters;6007;Naters;VS;Area;real;false;14.11.2025;2643524;1130665;;
 10133375;Haus Barbara 4;3905 Saas-Almagell;6288;Saas-Almagell;VS;Area;real;false;04.12.2024;2638921;1106530;;
 10040657;Les Rindouets;1988 Les Collons;6089;Vex;VS;Area;real;false;14.11.2025;2595806;1114827;;
 10163867;Milebach;3995 Mühlebach (Goms);6056;Ernen;VS;Area;real;false;13.11.2025;2655228;1139841;;
@@ -176418,7 +176422,6 @@
 10189015;Monteilly;1874 Champéry;6151;Champéry;VS;Area;real;false;14.11.2025;2556287;1114132;;
 10207772;La Bataille;1896 Miex;6159;Vouvry;VS;Area;real;true;12.11.2025;2554040.017;1131479.505;;
 10236896;Combioula;1981 Vex;6089;Vex;VS;Area;real;true;11.11.2025;2598057.738;1115293.817;;
-10206288;Dorbagnon;1965 Savièse;6265;Savièse;VS;Area;real;false;14.11.2025;2590656;1128959;;
 10053764;Eyhof;6207 Nottwil;1094;Nottwil;LU;Area;real;true;12.11.2025;2652174.091;1221409.231;;
 10085898;Oberfeldmatt;6102 Malters;1062;Malters;LU;Area;real;true;12.11.2025;2658764.091;1211404.814;;
 10191041;Bränd;6162 Entlebuch;1002;Entlebuch;LU;Area;real;true;12.11.2025;2648521.942;1204136.515;;
@@ -176815,7 +176818,6 @@
 10152699;Goilly;1942 Levron;6037;Val de Bagnes;VS;Area;real;true;12.11.2025;2578448.695;1106620.482;;
 10236842;Chemin des Crêtes;1969 St-Martin VS;6087;Saint-Martin (VS);VS;Area;real;false;14.11.2025;2600307;1113297;;
 10181329;Dorna;3939 Eggerberg;6004;Eggerberg;VS;Area;real;false;04.12.2024;2633424;1128513;;
-10261921;Undri Senggalp;3943 Eischoll;6194;Eischoll;VS;Street;real;true;23.07.2024;2624612;1126259;;
 10236303;Le Vouartsi;1944 La Fouly VS;6034;Orsières;VS;Area;real;true;29.09.2025;2575304.675;1091425.503;;
 10125573;Zwischmatten;3947 Ergisch;6104;Ergisch;VS;Street;real;true;11.06.2026;2621851;1126725;;
 10063933;Schwarenbach;3954 Leukerbad;6111;Leukerbad;VS;Area;real;true;04.12.2024;2614316;1142324;;
@@ -177882,7 +177884,6 @@
 10143607;Beim Parkplatz;3942 St. German;6199;Raron;VS;Place;real;false;12.11.2025;2629552.222;1129062.929;;
 10047655;Albenried;3930 Visp;6297;Visp;VS;Area;real;true;11.06.2025;2630607.495;1126880.129;;
 10047656;Allmei;3930 Visp;6297;Visp;VS;Area;real;true;15.09.2025;2633750;1126969;;
-10158424;Haus Asinara;3908 Saas-Balen;6289;Saas-Balen;VS;Area;real;false;13.11.2025;2638162;1109453;;
 10052091;Kesslerhüsli;6142 Gettnau;1151;Willisau;LU;Area;real;true;12.11.2025;2639765.392;1220660.593;;
 10189665;Farnacher;6166 Hasle LU;1005;Hasle (LU);LU;Area;real;true;12.11.2025;2647292.418;1202350.861;;
 10053768;Studenhof;6207 Nottwil;1094;Nottwil;LU;Area;real;true;12.11.2025;2654101.25;1219616.541;;
@@ -180669,7 +180670,7 @@
 10006004;Wissämme;6170 Schüpfheim;1008;Schüpfheim;LU;Area;real;true;12.11.2025;2642394.84;1198231.522;;
 10185953;Clos des Ponts;1443 Essert-sous-Champvent;5905;Champvent;VD;Area;real;true;11.11.2025;2534481.699;1182668.789;;
 10257261;Place Maurice Cosandey;1015 Lausanne;5635;Ecublens (VD);VD;Place;real;true;21.11.2025;2533074.598;1152275.366;;
-10076628;Le Clos du Rocher;1853 Yvorne;5415;Yvorne;VD;Area;real;true;12.11.2025;2562713;1131759;;
+10076628;Le Clos du Rocher;1853 Yvorne;5415;Yvorne;VD;Area;real;true;12.11.2025;2562972.833;1131788.786;;
 10038545;La Léchaire;1612 Ecoteaux;5805;Oron;VD;Area;real;false;14.11.2025;2555454;1155515;;
 10184965;Aux Eaux;1180 Rolle;5861;Rolle;VD;Area;real;true;11.11.2025;2515317.447;1146094.619;;
 10209204;Chalet de Combe Noire;1345 Le Lieu;5873;Le Lieu;VD;Area;real;true;23.07.2024;2508808;1165537;;
@@ -180828,7 +180829,7 @@
 10035612;En Vallapraz;1123 Aclens;5621;Aclens;VD;Area;real;true;12.11.2025;2528635.691;1157839.746;;
 10188709;Grange-de-la-Ville;1562 Corcelles-près-Payerne;5816;Corcelles-près-Payerne;VD;Area;real;true;11.11.2025;2563587.69;1189751.114;;
 10255418;Les Genevries;1183 Bursins;5853;Bursins;VD;Area;real;true;13.11.2025;2512312;1143509;;
-10059628;La Mélulaz;1410 St-Cierges;5693;Montanaire;VD;Area;real;true;11.11.2025;2545731;1170107;;
+10059628;La Mélulaz;1410 St-Cierges;5693;Montanaire;VD;Area;real;true;11.11.2025;2545658.373;1169953.318;;
 10057682;Le Roselet;1145 Bière;5435;Saint-Livres;VD;Area;real;true;11.11.2025;2517393.208;1153491.442;;
 10077596;Les Rafforts;1607 Les Tavernes;5805;Oron;VD;Area;real;true;12.11.2025;2551060;1155547;;
 10137167;La Fretaire;1041 Bottens;5514;Bottens;VD;Area;real;true;12.11.2025;2540672.707;1161532.909;;
@@ -181796,7 +181797,7 @@
 10034228;Le Raccard;1303 Penthaz;5496;Penthaz;VD;Area;real;true;12.11.2025;2531852.7;1160680.193;;
 10106265;Prés des Rives;1344 L'Abbaye;5871;L'Abbaye;VD;Area;real;true;12.11.2025;2514726.331;1167569.694;;
 10050452;Les Rottes;1415 Molondin;5921;Molondin;VD;Area;real;true;11.11.2025;2546780.012;1177127.2;;
-10068497;Le Petit Marais;1442 Montagny-près-Yverdon;5922;Montagny-près-Yverdon;VD;Area;real;true;21.11.2025;2537320.917;1181415.861;;
+10068497;Le Petit Marais;1442 Montagny-près-Yverdon;5922;Montagny-près-Yverdon;VD;Area;real;true;21.11.2025;2537321;1181418;;
 10090594;Moulin de la Palaz;1302 Vufflens-la-Ville;5503;Vufflens-la-Ville;VD;Area;real;true;12.11.2025;2530508.424;1159043.973;;
 10050427;Moulin du Pont;1407 Donneloye;5913;Donneloye;VD;Area;real;true;11.11.2025;2544152.571;1177354.472;;
 10116011;Les Eterpis;1124 Gollion;5484;Gollion;VD;Area;real;true;12.11.2025;2530077.381;1159084.158;;
@@ -181812,7 +181813,7 @@
 10047117;En Ratevel;1660 Les Moulins;5841;Château-d'Oex;VD;Area;real;false;23.07.2024;2573385;1145075;;
 10255206;Devant l'Epinette;1852 Roche VD;5413;Roche (VD);VD;Area;real;true;23.07.2024;2559689;1133312;;
 10144657;La Prise à Maire;1450 Ste-Croix;5568;Sainte-Croix;VD;Area;real;true;23.07.2024;2526381;1184471;;
-10080085;En Sauge;1422 Grandson;5561;Grandson;VD;Area;real;true;11.11.2025;2541839.4;1186175.115;;
+10080085;En Sauge;1422 Grandson;5561;Grandson;VD;Area;real;true;11.11.2025;2541948;1186210;;
 10166898;Rue de Malte;1400 Yverdon-les-Bains;5938;Yverdon-les-Bains;VD;Street;real;false;13.11.2025;2538893;1180876;;
 10043657;La Pousaz;1867 Ollon VD;5409;Ollon;VD;Place;real;true;12.11.2025;2567234.593;1126662.528;;
 10034237;St-Loup;1318 Pompaples;5497;Pompaples;VD;Area;real;true;12.11.2025;2528423;1168797;;
@@ -181839,7 +181840,7 @@
 10068552;Les Carboles;1607 Les Tavernes;5805;Oron;VD;Area;real;true;12.11.2025;2551855.186;1155198.482;;
 10155920;Le Genevrey;1607 Les Thioleyres;5805;Oron;VD;Area;real;true;12.11.2025;2552215.085;1155019.73;;
 10108620;Place de l'Eglise;1186 Essertines-sur-Rolle;5856;Essertines-sur-Rolle;VD;Place;real;true;11.06.2025;2513944.778;1149696.945;;
-10049127;Les Troncs;1443 Champvent;5905;Champvent;VD;Area;real;true;05.12.2025;2532589.181;1180740.069;;
+10049127;Les Troncs;1443 Champvent;5905;Champvent;VD;Area;real;true;05.12.2025;2532500;1180727;;
 10190419;Moulin-Pacot;1416 Pailly;5530;Pailly;VD;Area;real;true;11.11.2025;2542590.242;1172053.396;;
 10176881;Chambon;1852 Roche VD;5413;Roche (VD);VD;Area;real;true;12.11.2025;2560100.454;1134620.387;;
 10043626;En Novallette;1845 Noville;5408;Noville;VD;Area;real;true;12.11.2025;2558745.342;1136987.094;;
@@ -181871,7 +181872,7 @@
 10075363;La Venoge;1312 Eclépens;5482;Eclépens;VD;Area;real;true;12.11.2025;2530584.728;1166766.093;;
 10198665;Carabéra;1446 Baulmes;5745;Baulmes;VD;Area;real;false;23.07.2024;2529410;1181589;;
 10040919;La Tuillière;1374 Corcelles-sur-Chavornay;5749;Chavornay;VD;Area;real;true;11.11.2025;2537144.786;1172204.959;;
-10098027;Saint-Christophe;1443 Champvent;5905;Champvent;VD;Area;real;true;28.11.2025;2531995;1180574;;
+10098027;Saint-Christophe;1443 Champvent;5905;Champvent;VD;Area;real;true;28.11.2025;2531946.527;1180586.496;;
 10075777;Le Grand Bois;1058 Villars-Tiercelin;5804;Jorat-Menthue;VD;Area;real;true;19.08.2026;2544596;1162820;;
 10078931;Prés des Champs;1338 Ballaigues;5744;Ballaigues;VD;Area;real;true;11.11.2025;2521079.364;1176995.403;;
 10080105;La Mouillette;1454 L'Auberson;5568;Sainte-Croix;VD;Area;real;true;11.11.2025;2525948.581;1187287.294;;
@@ -182439,7 +182440,7 @@
 10095947;Route du Village;1148 Chavannes-le-Veyron;5475;Chavannes-le-Veyron;VD;Street;real;false;13.11.2025;2524033;1162444;;
 10255353;Le Bauloz;1278 La Rippe;5726;La Rippe;VD;Area;real;true;13.11.2025;2499187;1141346;;
 10206819;Les Combes;1345 Le Lieu;5873;Le Lieu;VD;Area;real;true;23.07.2024;2510165;1166928;;
-10116282;La Tornaz;1342 Le Pont;5871;L'Abbaye;VD;Area;real;true;11.11.2025;2515326;1170338;;
+10116282;La Tornaz;1342 Le Pont;5871;L'Abbaye;VD;Area;real;true;11.11.2025;2515231.462;1170494.293;;
 10068553;Seppey-Dessous;1085 Vulliens;5803;Vulliens;VD;Area;real;true;12.11.2025;2550599.384;1165754.098;;
 10034124;Côtes de Vaux;1312 Eclépens;5482;Eclépens;VD;Area;real;true;23.07.2024;2532279;1166682;;
 10246448;En Cremont;1070 Puidoux;5607;Puidoux;VD;Area;real;true;12.11.2025;2548902.857;1149939.382;;
@@ -182605,7 +182606,7 @@
 10155544;Les Grandes Fauconnières;2108 Couvet;5566;Provence;VD;Area;real;true;23.07.2024;2544000;1197499;;
 10059162;Les Epinettes;1427 Bonvillars;5551;Bonvillars;VD;Area;real;true;23.07.2024;2541915;1187889;;
 10033964;Les Petits Troncs;1041 Bottens;5514;Bottens;VD;Area;real;true;12.11.2025;2541816.352;1163154.488;;
-10043916;Petit Marais;1149 Berolle;5424;Berolle;VD;Area;real;true;12.11.2025;2515217.736;1156332.751;;
+10043916;Petit Marais;1149 Berolle;5424;Berolle;VD;Area;real;true;12.11.2025;2515178;1156342;;
 10077516;Combenoire;1345 Le Lieu;5873;Le Lieu;VD;Area;real;true;11.11.2025;2509549.695;1165526.462;;
 10196556;Place de l'Ancienne Scierie;1269 Bassins;5703;Bassins;VD;Place;real;true;11.11.2025;2507368.5;1146815.469;;
 10076834;Sur la Ville;1443 Champvent;5905;Champvent;VD;Area;real;true;11.11.2025;2533732.847;1181725.514;;
@@ -182738,7 +182739,7 @@
 10122838;Petit Cottens;1268 Begnins;5704;Begnins;VD;Area;real;true;13.11.2025;2509301;1143983;;
 10068548;Le Moulin de Peney;1059 Peney-le-Jorat;5804;Jorat-Menthue;VD;Area;real;true;17.05.2026;2546510.78;1165657.042;;
 10184966;Les Mousses;1345 Le Lieu;5873;Le Lieu;VD;Area;real;true;11.11.2025;2511114.429;1166930.739;;
-10172540;Les Tuilières;1063 Peyres-Possens;5693;Montanaire;VD;Area;real;true;24.11.2025;2543458.48;1167726.203;;
+10172540;Les Tuilières;1063 Peyres-Possens;5693;Montanaire;VD;Area;real;true;24.11.2025;2543456;1167717;;
 10039939;Place de l'Hôtel-de-Ville;1510 Moudon;5678;Moudon;VD;Place;real;true;11.11.2025;2550924;1168810;;
 10076833;La Tuilière;1443 Champvent;5905;Champvent;VD;Area;real;true;11.11.2025;2533521;1183175;;
 10255362;Le Plambois;1588 Cudrefin;5456;Cudrefin;VD;Area;real;true;23.07.2024;2565898;1198340;;
@@ -182775,7 +182776,7 @@
 10255407;Le Traifau;1037 Etagnières;5521;Etagnières;VD;Area;real;true;23.07.2024;2535848;1162244;;
 10028275;La Combaz;1148 Cuarnens;5479;Cuarnens;VD;Area;real;true;12.11.2025;2522734.527;1164567.47;;
 10041269;Le Fordon;1428 Provence;5566;Provence;VD;Area;real;true;11.11.2025;2542410.551;1193168.336;;
-10122827;Les Monod;1146 Mollens VD;5431;Mollens (VD);VD;Area;real;true;12.11.2025;2519254;1159291;;
+10122827;Les Monod;1146 Mollens VD;5431;Mollens (VD);VD;Area;real;true;12.11.2025;2519275.614;1159295.272;;
 10241349;Place Alice-Rivaz;1815 Clarens;5886;Montreux;VD;Place;real;true;12.11.2025;2558415.245;1143541.99;;
 10044721;Col-de-Soud;1884 Villars-sur-Ollon;5409;Ollon;VD;Area;real;true;13.11.2025;2571558;1128253;;
 10033963;Le Château;1041 Bottens;5514;Bottens;VD;Area;real;true;13.11.2025;2539702;1163568;;
@@ -182909,7 +182910,7 @@
 10164137;Place de la Gare;1608 Oron-le-Châtel;5805;Oron;VD;Place;real;true;26.01.2026;2553852.249;1158045.976;;
 10118809;La Sagne;1439 Rances;5760;Rances;VD;Area;real;true;23.07.2024;2524857;1179954;;
 10079212;Couvaloup de Crans;1276 Gingins;5719;Gingins;VD;Area;real;true;11.11.2025;2496587.871;1144199.036;;
-10068480;En Chaponneyres;1800 Vevey;5890;Vevey;VD;Area;real;true;12.11.2025;2555709;1145913;;
+10068480;En Chaponneyres;1800 Vevey;5890;Vevey;VD;Area;real;true;12.11.2025;2555716.931;1145891.189;;
 10165769;Le Lavanchy;1844 Villeneuve VD;5414;Villeneuve (VD);VD;Area;real;true;13.11.2025;2566823;1142734;;
 10044403;Les Rochettes;1454 La Vraconnaz;5568;Sainte-Croix;VD;Area;real;true;11.11.2025;2526116.754;1188666.926;;
 10059607;Zone industrielle Moulin-du-Choc E;1122 Romanel-sur-Morges;5645;Romanel-sur-Morges;VD;Area;real;true;23.07.2024;2529716;1156932;;
@@ -182957,7 +182958,7 @@
 10090617;Les Troncs;1041 Bottens;5514;Bottens;VD;Area;real;true;12.11.2025;2542108.714;1162767.88;;
 10201292;Le Mont Colomb;1428 Provence;5566;Provence;VD;Area;real;true;11.11.2025;2543792.567;1195113.829;;
 10050423;Frémérin;1415 Démoret;5912;Démoret;VD;Area;real;true;11.11.2025;2547397.779;1176893.956;;
-10121224;La Gru;1148 Chavannes-le-Veyron;5474;La Chaux (Cossonay);VD;Area;real;true;12.11.2025;2524925.296;1162468.801;;
+10121224;La Gru;1148 Chavannes-le-Veyron;5474;La Chaux (Cossonay);VD;Area;real;true;12.11.2025;2524922;1162465;;
 10256016;Place du 7 Février;1400 Yverdon-les-Bains;5938;Yverdon-les-Bains;VD;Area;real;true;21.09.2026;2538933.729;1181303.545;;
 10159826;Place du Temple;1148 La Praz;5758;La Praz;VD;Place;real;true;08.12.2025;2522591.428;1168969.346;;
 10255324;Les Planches de la Cure;2108 Couvet;5566;Provence;VD;Area;real;true;23.07.2024;2543307;1196140;;
@@ -183239,7 +183240,7 @@
 10263337;Rastplatz A3 Mumpf-Nord;4322 Mumpf;4255;Mumpf;AG;Place;real;true;12.11.2025;2637227.412;1266198.03;;
 10263338;Rastplatz A3 Mumpf-Süd;4322 Mumpf;4255;Mumpf;AG;Place;real;true;12.11.2025;2637197.02;1266151.205;;
 10116996;Beauregard;1510 Moudon;5678;Moudon;VD;Area;real;true;11.11.2025;2549820.46;1169310.746;;
-10096428;Vers-Chenaux;1853 Yvorne;5415;Yvorne;VD;Area;real;true;12.11.2025;2563467.459;1131830.116;;
+10096428;Vers-Chenaux;1853 Yvorne;5415;Yvorne;VD;Area;real;true;12.11.2025;2563467;1131815;;
 10160554;Halte de Trey;1552 Trey;5827;Trey;VD;Area;real;true;11.11.2025;2560047.468;1181282.412;;
 10043381;Le Sépey;1863 Le Sépey;5410;Ormont-Dessous;VD;Area;real;true;11.06.2025;2570157.498;1134523.389;;
 10050514;Chemin de la Sallaz;1400 Yverdon-les-Bains;5938;Yverdon-les-Bains;VD;Street;real;false;13.11.2025;2538893;1180876;;
@@ -184934,7 +184935,7 @@
 10014217;Acherberg-Bawegg;6463 Bürglen UR;1205;Bürglen (UR);UR;Area;real;true;12.11.2025;2696339.486;1193446.859;;
 10208782;Oberalp;6465 Unterschächen;1219;Unterschächen;UR;Area;real;true;12.11.2025;2704559.539;1189704.48;;
 10014225;Diegenscheit;6463 Bürglen UR;1205;Bürglen (UR);UR;Area;real;true;12.11.2025;2693652.341;1192500.681;;
-10208795;Neu Äbnet;6465 Unterschächen;1219;Unterschächen;UR;Area;real;true;21.11.2025;2701105.917;1192084.704;;
+10208795;Neu Äbnet;6465 Unterschächen;1219;Unterschächen;UR;Area;real;true;21.11.2025;2701105;1192087;;
 10113882;Kohlplatz;6468 Attinghausen;1203;Attinghausen;UR;Area;real;true;12.11.2025;2690293.769;1190225.967;;
 10133753;Les Combes-Dessous;1867 Ollon VD;5409;Ollon;VD;Area;real;true;23.07.2024;2568493;1126387;;
 10099520;La Foule;1551 Vers-chez-Perrin;5822;Payerne;VD;Area;real;true;11.11.2025;2562120.272;1183473.274;;
@@ -186111,7 +186112,7 @@
 10248153;Rüti;6464 Spiringen;1218;Spiringen;UR;Area;real;true;12.11.2025;2698550.997;1190962.198;;
 10113881;Gezig;6468 Attinghausen;1203;Attinghausen;UR;Area;real;true;12.11.2025;2688978.545;1192280.983;;
 10068123;Butzen;6474 Amsteg;1209;Gurtnellen;UR;Area;real;true;12.11.2025;2693627.877;1181271.37;;
-10246667;Ober Hegen;6482 Gurtnellen;1209;Gurtnellen;UR;Area;real;true;12.11.2025;2690177;1178439;;
+10246667;Ober Hegen;6482 Gurtnellen;1209;Gurtnellen;UR;Area;real;true;12.11.2025;2690176.644;1178437.816;;
 10256352;Gitschital;6462 Seedorf UR;1214;Seedorf (UR);UR;Area;real;true;12.11.2025;2686060.443;1190293.421;;
 10252290;Hornband;6461 Isenthal;1211;Isenthal;UR;Area;real;true;12.11.2025;2684647.54;1195672.708;;
 10196312;Ober Berg;6461 Isenthal;1211;Isenthal;UR;Area;real;true;12.11.2025;2686396.196;1193045.475;;
@@ -186782,7 +186783,7 @@
 10014932;Unterer Graben;6463 Bürglen UR;1205;Bürglen (UR);UR;Area;real;true;12.11.2025;2696112.519;1192755.547;;
 10199523;Pfaffen;6461 Isenthal;1211;Isenthal;UR;Area;real;true;12.11.2025;2679123.284;1194704.384;;
 10014905;Ruberli;6468 Attinghausen;1203;Attinghausen;UR;Area;real;true;12.11.2025;2689654.092;1189659.621;;
-10019874;Regliberg;6487 Göschenen;1208;Göschenen;UR;Area;real;true;21.11.2025;2685960.5;1169444.528;;
+10019874;Regliberg;6487 Göschenen;1208;Göschenen;UR;Area;real;true;21.11.2025;2685884;1169454;;
 10014262;Schindleren;6463 Bürglen UR;1205;Bürglen (UR);UR;Area;real;true;12.11.2025;2695921.392;1194985.661;;
 10255969;Eggeli;6454 Flüelen;1207;Flüelen;UR;Place;real;true;12.11.2025;2691989.577;1196114.255;;
 10259203;Börtlistafel;6487 Göschenen;1208;Göschenen;UR;Area;real;true;12.11.2025;2684424.58;1167502.48;;
@@ -187108,7 +187109,7 @@
 10144560;Bolle;6661 Crana;5136;Onsernone;TI;Area;real;true;11.03.2026;2690704.187;1117371.011;;
 10137203;Moncréch;6713 Malvaglia;5050;Serravalle;TI;Area;real;false;08.07.2025;2719957.337;1140704.154;;
 10246528;al Piagn;6670 Avegno;5324;Avegno Gordevio;TI;Area;real;true;11.06.2025;2701640.444;1118857.313;;
-10246004;Piazza Mascengo;6773 Prato (Leventina);5079;Quinto;TI;Place;real;true;12.11.2025;2700817.953;1148706.798;;
+10246004;Piazza Mascengo;6773 Prato (Leventina);5079;Quinto;TI;Place;real;true;12.11.2025;2700817.382;1148706.966;;
 10143730;Caissighera;6713 Malvaglia;5050;Serravalle;TI;Area;real;false;08.07.2025;2722770.433;1144090.35;;
 10243344;Bedoledo;6661 Loco;5136;Onsernone;TI;Area;real;false;11.06.2025;2696090.259;1116414.151;;
 10242303;a Canavée;6992 Cimo;5151;Bioggio;TI;Area;real;true;11.06.2025;2712697.456;1095648.926;;
@@ -191744,7 +191745,7 @@
 10220401;Wilteneggli;3765 Oberwil im Simmental;766;Oberwil im Simmental;BE;Area;real;true;12.11.2025;2601844.36;1168051.339;;
 10013265;Frauchige;4954 Wyssachen;960;Wyssachen;BE;Area;real;true;12.11.2025;2628866.557;1213639.296;;
 10218859;Uf de Höften;3716 Kandergrund;564;Kandergrund;BE;Area;real;true;12.11.2025;2616112.729;1155832.548;;
-10008108;Feld;3066 Stettlen;352;Bolligen;BE;Area;real;true;12.11.2025;2607924.073;1201964.996;;
+10008108;Feld;3066 Stettlen;352;Bolligen;BE;Area;real;true;12.11.2025;2607922.89;1201965.121;;
 10220925;Scheideggliberg;3536 Aeschau;901;Eggiwil;BE;Area;real;true;12.11.2025;2626451.313;1195103.602;;
 10194477;Mechlistall;3755 Horboden;762;Diemtigen;BE;Area;real;true;13.11.2025;2611515.544;1160725.499;;
 10085149;Hirschweid;3113 Rubigen;623;Rubigen;BE;Area;real;true;12.11.2025;2608383.485;1194456.786;;
@@ -192808,7 +192809,7 @@
 10011546;Hintere Neumatt;3553 Gohl;902;Langnau im Emmental;BE;Area;real;true;12.11.2025;2627725.681;1200472.835;;
 10197435;Obem Wald;3856 Brienzwiler;574;Brienzwiler;BE;Area;real;true;12.11.2025;2651642.028;1179093.703;;
 10216667;Milieu de l'Envers;2762 Roches BE;704;Roches (BE);BE;Area;real;true;12.11.2025;2595290.941;1238874.579;;
-10006980;Äbnit;3065 Bolligen;352;Bolligen;BE;Area;real;true;12.11.2025;2605781.697;1203455.288;;
+10006980;Äbnit;3065 Bolligen;352;Bolligen;BE;Area;real;true;12.11.2025;2605788.517;1203447.319;;
 10067525;Sonnberg;3538 Röthenbach im Emmental;904;Röthenbach im Emmental;BE;Area;real;true;12.11.2025;2621536.633;1188194.691;;
 10082023;Gibliz;3661 Uetendorf;944;Uetendorf;BE;Area;real;true;12.11.2025;2609644.058;1179158.992;;
 10179543;Unterhaus;3618 Süderen;904;Röthenbach im Emmental;BE;Area;real;true;12.11.2025;2625499.73;1185809.081;;
@@ -193325,7 +193326,7 @@
 10242848;Bühlmatt;3432 Lützelflüh-Goldbach;955;Lützelflüh;BE;Area;real;true;12.11.2025;2617209.673;1203079.722;;
 10082507;Hinter der Post;3225 Müntschemier;498;Müntschemier;BE;Area;real;true;12.11.2025;2577674.071;1204922.633;;
 10216705;Breitwang;3619 Eriz;924;Eriz;BE;Area;real;true;12.11.2025;2631143.9;1182023.245;;
-10006982;Bantigehubel;3065 Bolligen;352;Bolligen;BE;Area;real;true;12.11.2025;2606826.5;1203304.408;;
+10006982;Bantigehubel;3065 Bolligen;352;Bolligen;BE;Area;real;true;12.11.2025;2606826.527;1203304.359;;
 10061824;Süfternen;1738 Sangernboden, 3156 Riffenmatt;853;Rüschegg;BE;Area;real;true;12.11.2025;2596634.019;1176180.493;;
 10219103;Öli;4955 Gondiswil;326;Gondiswil;BE;Area;real;true;12.11.2025;2633267.185;1222439.272;;
 10219724;Viertelstück;3758 Latterbach;763;Erlenbach im Simmental;BE;Area;real;true;12.11.2025;2611575.655;1168234.855;;
@@ -193737,7 +193738,7 @@
 10004455;Kasern;3413 Kaltacker;407;Heimiswil;BE;Area;real;true;12.11.2025;2618826.782;1212753.446;;
 10060536;Mühleseilen;3538 Röthenbach im Emmental;605;Bowil;BE;Area;real;true;12.11.2025;2621000.016;1190704.039;;
 10110739;Wolfgrube;3762 Erlenbach im Simmental;763;Erlenbach im Simmental;BE;Area;real;true;12.11.2025;2607200.012;1166896.11;;
-10220181;Stockematte;3237 Brüttelen;491;Brüttelen;BE;Area;real;true;12.11.2025;2578612.403;1207469.236;;
+10220181;Stockematte;3237 Brüttelen;491;Brüttelen;BE;Area;real;true;12.11.2025;2578622.136;1207480.913;;
 10059256;Freiburghaus;3176 Neuenegg;670;Neuenegg;BE;Area;real;true;12.11.2025;2587828.995;1193992.755;;
 10066970;Mühleweid;3622 Homberg b. Thun;931;Homberg;BE;Area;real;true;12.11.2025;2619236.372;1181310.11;;
 10217696;Sodbach;3150 Schwarzenburg;855;Schwarzenburg;BE;Area;real;true;12.11.2025;2591292.692;1186204.331;;
@@ -194257,7 +194258,7 @@
 10216636;Vorder Neumatt;3556 Trub;908;Trub;BE;Area;real;true;12.11.2025;2634131.879;1201812.718;;
 10221283;Pfang;3806 Bönigen b. Interlaken;572;Bönigen;BE;Area;real;true;12.11.2025;2638676.971;1171855.651;;
 10011907;Rossmoosscheuer;3555 Trubschachen;909;Trubschachen;BE;Area;real;true;12.11.2025;2629532.576;1196004.829;;
-10006983;Bantigetal;3065 Bolligen;352;Bolligen;BE;Area;real;true;12.11.2025;2606054.582;1203618.936;;
+10006983;Bantigetal;3065 Bolligen;352;Bolligen;BE;Area;real;true;12.11.2025;2606043.88;1203622.024;;
 10216996;Guggeren;3087 Niedermuhlern;877;Niedermuhlern;BE;Area;real;true;12.11.2025;2600423.143;1189004.142;;
 10220421;Lischen;3854 Oberried am Brienzersee;589;Oberried am Brienzersee;BE;Area;real;true;12.11.2025;2637878.8;1178550.964;;
 10082104;Waldhüsli;3452 Grünenmatt;955;Lützelflüh;BE;Area;real;true;12.11.2025;2622685.44;1206713.105;;
@@ -197061,7 +197062,7 @@
 10004789;Oberwil;3176 Neuenegg;670;Neuenegg;BE;Area;real;true;12.11.2025;2587019.569;1194519.709;;
 10242935;Steinern;3158 Guggisberg;852;Guggisberg;BE;Area;real;true;12.11.2025;2591330.951;1178352.336;;
 10240744;Spychweid;3475 Riedtwil, 3476 Oschwand;988;Seeberg;BE;Area;real;true;02.01.2026;2620309;1221836;;
-10008111;Liebiberg;3066 Stettlen;352;Bolligen;BE;Area;real;true;12.11.2025;2608224.726;1203087.877;;
+10008111;Liebiberg;3066 Stettlen;352;Bolligen;BE;Area;real;true;12.11.2025;2608220.075;1203084.29;;
 10005572;Bahnhofplatz;3415 Hasle b. Burgdorf;406;Hasle bei Burgdorf;BE;Area;real;true;12.11.2025;2616510.393;1207238.516;;
 10206720;Ey Fuhren;3863 Gadmen;784;Innertkirchen;BE;Area;real;true;12.11.2025;2668636.882;1176007.703;;
 10116903;Aebnit;3815 Gündlischwand;578;Gündlischwand;BE;Area;real;true;12.11.2025;2637159.657;1165111.591;;
@@ -198063,7 +198064,7 @@
 10011664;Häberli;3538 Röthenbach im Emmental;904;Röthenbach im Emmental;BE;Area;real;true;12.11.2025;2623016.482;1188897.156;;
 10218715;Halta;3806 Bönigen b. Interlaken;572;Bönigen;BE;Area;real;true;12.11.2025;2634944.327;1169958.956;;
 10216933;Unterfischbächen;1738 Sangernboden;853;Rüschegg;BE;Area;real;true;12.11.2025;2595670.272;1174737.209;;
-10051740;Rüde;3066 Stettlen;352;Bolligen;BE;Area;real;true;12.11.2025;2608118.794;1201625.333;;
+10051740;Rüde;3066 Stettlen;352;Bolligen;BE;Area;real;true;12.11.2025;2608106.669;1201620.245;;
 10172081;Ober-Bolzisberg;3432 Lützelflüh-Goldbach;955;Lützelflüh;BE;Area;real;true;12.11.2025;2617707.443;1202970.156;;
 10219161;Bir Fellsagi;3826 Gimmelwald;584;Lauterbrunnen;BE;Area;real;true;12.11.2025;2633997.821;1154597.798;;
 10059209;Fälbehüsli;3453 Heimisbach;958;Trachselwald;BE;Area;real;true;12.11.2025;2625065.724;1205155.102;;
@@ -198230,7 +198231,7 @@
 10216651;La Belleface;2762 Roches BE;704;Roches (BE);BE;Area;real;true;12.11.2025;2594902.887;1238323.241;;
 10219134;Igetal;4917 Melchnau;333;Melchnau;BE;Area;real;true;12.11.2025;2632312.124;1225192.375;;
 10010717;Uf Riiti;6085 Hasliberg Goldern;783;Hasliberg;BE;Area;real;true;12.11.2025;2657865.421;1176229.613;;
-10178554;Flugbrunnen;3065 Bolligen;352;Bolligen;BE;Area;real;true;12.11.2025;2605297.404;1202534.973;;
+10178554;Flugbrunnen;3065 Bolligen;352;Bolligen;BE;Area;real;true;12.11.2025;2605304.842;1202543.351;;
 10221228;Kapfweidli;3765 Oberwil im Simmental;766;Oberwil im Simmental;BE;Area;real;true;12.11.2025;2600938.939;1166662.734;;
 10196071;Schuelgietli;3816 Lütschental;586;Lütschental;BE;Area;real;true;12.11.2025;2639281.615;1165222.993;;
 10123002;Bachacker;3762 Erlenbach im Simmental;763;Erlenbach im Simmental;BE;Area;real;true;12.11.2025;2608410.759;1168352.064;;
@@ -199301,7 +199302,7 @@
 10216956;Schneitermatta;3804 Habkern;579;Habkern;BE;Area;real;true;12.11.2025;2633821.943;1175132.054;;
 10012651;Unwillen;3553 Gohl;902;Langnau im Emmental;BE;Area;real;true;12.11.2025;2628029.298;1200341.493;;
 10109800;Ackerli;3087 Niedermuhlern;877;Niedermuhlern;BE;Area;real;true;12.11.2025;2601504.742;1189383.002;;
-10083222;Bantiger;3065 Bolligen;352;Bolligen;BE;Area;real;true;12.11.2025;2606856.31;1202951.178;;
+10083222;Bantiger;3065 Bolligen;352;Bolligen;BE;Area;real;true;12.11.2025;2606864.265;1202951.176;;
 10112534;Selbezen;3753 Oey;762;Diemtigen;BE;Area;real;true;23.12.2025;2611223;1166948;;
 10178726;Buchi;3457 Wasen im Emmental;957;Sumiswald;BE;Area;real;true;12.11.2025;2628793.912;1210553.145;;
 10259274;Louchera;3815 Gündlischwand;578;Gündlischwand;BE;Area;real;true;12.11.2025;2637549.253;1168164.154;;
@@ -201629,7 +201630,7 @@
 10220339;Stocki;3765 Oberwil im Simmental;766;Oberwil im Simmental;BE;Area;real;true;12.11.2025;2598699.211;1167086.645;;
 10217220;SBB;4922 Bützberg;342;Thunstetten;BE;Area;real;true;12.11.2025;2624588.555;1229291.952;;
 10104994;Schulerszaun;3818 Grindelwald;576;Grindelwald;BE;Area;real;true;12.11.2025;2644833.774;1163947.814;;
-10051739;Hofure;3066 Stettlen;352;Bolligen;BE;Area;real;true;12.11.2025;2608205.201;1202689.083;;
+10051739;Hofure;3066 Stettlen;352;Bolligen;BE;Area;real;true;12.11.2025;2608241.716;1202706.336;;
 10109838;Wyden;3176 Neuenegg;670;Neuenegg;BE;Area;real;true;12.11.2025;2586590.662;1194795.809;;
 10083080;Hinter Stoss;3553 Gohl;902;Langnau im Emmental;BE;Area;real;true;12.11.2025;2627516.494;1201062.371;;
 10013078;Hintermoos;3618 Süderen;904;Röthenbach im Emmental;BE;Area;real;true;12.11.2025;2625660.757;1186159.866;;
@@ -201744,7 +201745,7 @@
 10083119;Tuftbach;3818 Grindelwald;576;Grindelwald;BE;Area;real;true;12.11.2025;2644813.79;1164366.467;;
 10221265;Affenwald;3857 Unterbach BE;785;Meiringen;BE;Area;real;true;12.11.2025;2652750.784;1176361.509;;
 10220627;Mühlemättli;3763 Därstetten;761;Därstetten;BE;Area;real;true;12.11.2025;2604008.542;1167452.334;;
-10056817;Baggler;3065 Bolligen;352;Bolligen;BE;Area;real;true;12.11.2025;2606117.224;1202014.735;;
+10056817;Baggler;3065 Bolligen;352;Bolligen;BE;Area;real;true;12.11.2025;2606138.144;1202053.549;;
 10109074;Bütschwilgrube;3054 Schüpfen;311;Schüpfen;BE;Area;real;true;12.11.2025;2595369.694;1207837.657;;
 10205016;Würtebühl;3772 St. Stephan;793;St. Stephan;BE;Area;real;true;12.11.2025;2595413.637;1148617.506;;
 10242930;Flühmatten;3158 Guggisberg;852;Guggisberg;BE;Area;real;true;12.11.2025;2590871.689;1179967.867;;
@@ -202476,7 +202477,7 @@
 10256456;Teuftal;3813 Saxeten;591;Saxeten;BE;Area;real;true;12.11.2025;2630133.729;1166399.773;;
 10052241;Bärgläger;3715 Adelboden;561;Adelboden;BE;Area;real;true;12.11.2025;2607169.229;1146365.903;;
 10060490;Wartenberg;3816 Lütschental;586;Lütschental;BE;Area;real;true;12.11.2025;2640713.861;1165307.465;;
-10122775;Bantigen;3065 Bolligen;352;Bolligen;BE;Area;real;true;12.11.2025;2605933.513;1202596.472;;
+10122775;Bantigen;3065 Bolligen;352;Bolligen;BE;Area;real;true;12.11.2025;2605933.13;1202596.731;;
 10216821;Dürrentannli;1738 Sangernboden;853;Rüschegg;BE;Area;real;true;12.11.2025;2597287.641;1174651.807;;
 10178999;Rainberg;3415 Rüegsauschachen;407;Heimiswil;BE;Area;real;true;12.11.2025;2615791.894;1208756.922;;
 10045555;La Combe de Büren;2603 Péry;442;Romont (BE);BE;Area;real;true;12.11.2025;2592178.325;1229011.54;;
@@ -202645,7 +202646,7 @@
 10220266;Staldeweid;3816 Lütschental;586;Lütschental;BE;Area;real;true;12.11.2025;2640618.429;1165123.914;;
 10059854;Rinderstyg;3617 Fahrni b. Thun;925;Fahrni;BE;Area;real;true;12.11.2025;2616537.424;1183088.954;;
 10217027;Äbnit;3707 Därligen;575;Därligen;BE;Area;real;true;12.11.2025;2627545.881;1167375.827;;
-10043779;Auf dem Rain;3822 Lauterbrunnen;584;Lauterbrunnen;BE;Area;real;true;12.11.2025;2636140.787;1160449.027;;
+10043779;Auf dem Rain;3822 Lauterbrunnen;584;Lauterbrunnen;BE;Area;real;true;12.11.2025;2636152;1160455;;
 10218578;Gräppeweidli;3766 Boltigen;791;Boltigen;BE;Area;real;true;12.11.2025;2593400.213;1159852.835;;
 10164938;Auf dem Männlichen;3818 Grindelwald;576;Grindelwald;BE;Area;real;true;14.11.2025;2638535;1162563;;
 10166147;Hürlisegg-Höck;3537 Eggiwil;901;Eggiwil;BE;Area;real;true;12.11.2025;2630430.451;1190112.559;;
@@ -209263,7 +209264,7 @@
 10127191;Müsli;6074 Giswil;1403;Giswil;OW;Area;real;true;12.11.2025;2654651.659;1189771.994;;
 10261192;Steinwurf;6063 Stalden (Sarnen);1407;Sarnen;OW;Area;real;true;12.11.2025;2653537.722;1193236.894;;
 10113548;Bärschwendiweg;6078 Lungern;1405;Lungern;OW;Area;real;true;12.11.2025;2653815.176;1178758.807;;
-10143445;Stocki;6074 Giswil;1403;Giswil;OW;Area;real;true;21.11.2025;2656515;1185995;;
+10143445;Stocki;6074 Giswil;1403;Giswil;OW;Area;real;true;21.11.2025;2656516.469;1186040.392;;
 10091605;Sonnenhof;6056 Kägiswil;1407;Sarnen;OW;Area;real;true;12.11.2025;2662809.214;1196155.647;;
 10087330;Ninzenacher;6074 Giswil;1403;Giswil;OW;Area;real;true;12.11.2025;2654316.918;1186540.434;;
 10251701;Hinterbüel;6067 Melchtal;1406;Sachseln;OW;Place;real;true;12.11.2025;2664609.306;1187361.627;;
@@ -211487,7 +211488,7 @@
 10054986;Langacker;8231 Hemmental;2939;Schaffhausen;SH;Area;real;true;12.11.2025;2685069.997;1288620.001;;
 10121176;Ob den Beggingerreben;8226 Schleitheim;2952;Schleitheim;SH;Area;real;true;12.11.2025;2679078.319;1290747.496;;
 10257572;Gäisshaalde;8234 Stetten SH;2919;Stetten (SH);SH;Area;real;false;23.07.2024;2690226;1288203;;
-10104387;Schönenbühl;4717 Mümliswil;2428;Mümliswil-Ramiswil;SO;Area;real;true;12.11.2025;2618210.233;1244281.143;;
+10104387;Schönenbühl;4717 Mümliswil;2428;Mümliswil-Ramiswil;SO;Area;real;true;12.11.2025;2618210.447;1244266.574;;
 10214059;Witi;2544 Bettlach;2543;Bettlach;SO;Area;real;true;12.11.2025;2599058.095;1226404.453;;
 10024674;Sool;4717 Mümliswil;2428;Mümliswil-Ramiswil;SO;Area;real;true;12.11.2025;2621942.352;1246030.913;;
 10056285;Gugenhof;4655 Stüsslingen;2499;Stüsslingen;SO;Area;real;true;12.11.2025;2641073.379;1250165.861;;
@@ -215949,7 +215950,7 @@
 10180585;Städelimatte;6374 Buochs;1502;Buochs;NW;Area;real;true;12.11.2025;2674441.929;1202073.458;;
 10057115;Niedermättli;6373 Ennetbürgen;1505;Ennetbürgen;NW;Area;real;true;12.11.2025;2674552.257;1205173.668;;
 10170330;La Guérite;1563 Dompierre FR;2053;Belmont-Broye;FR;Area;real;true;27.08.2026;2566288.163;1190102.04;;
-10102086;Les Cheneveyres;1070 Puidoux;5607;Puidoux;VD;Area;real;false;01.09.2026;2548570.976;1152560.106;;
+10102086;Les Cheneveyres;1070 Puidoux;5607;Puidoux;VD;Area;real;false;01.09.2026;2548578.324;1152560.967;;
 10264556;Les Prés de la Combe;1428 Provence;5566;Provence;VD;Area;real;true;16.10.2026;2543987.539;1196375.081;;
 10142986;Auhafen;4127 Birsfelden, 4132 Muttenz;2770;Muttenz;BL;Area;real;true;01.09.2026;2616453.305;1265921.726;;
 10264500;Wildhieterhitta;3917 Goppenstein;6195;Ferden;VS;Area;real;true;01.09.2026;2625263.122;1135165.2;;
@@ -215989,7 +215990,6 @@
 10020317;Schwändeli;6052 Hergiswil NW;1507;Hergiswil (NW);NW;Area;real;true;12.11.2025;2665035.57;1204187.272;;
 10264524;Grassenbiwak;3863 Gadmen;784;Innertkirchen;BE;Place;real;true;16.10.2026;2676985.456;1180386.422;;
 10264575;Floraweg;4133 Pratteln;2831;Pratteln;BL;Street;real;true;16.10.2026;2619470;1263755;;
-10264586;Kleinhüninger Gärtlein;4057 Basel;2701;Basel;BS;Place;real;true;03.11.2026;2611512;1270353;;
 10251747;Place du 14 Juin;1800 Vevey;5890;Vevey;VD;Place;real;true;26.08.2026;2554119.849;1145877.085;;
 10264574;Paquier de l'Herse;1636 Broc;2124;Broc;FR;Area;real;true;16.10.2026;2575909.95;1160231.888;;
 10264529;Chraaneweier;8514 Amlikon-Bissegg;4881;Amlikon-Bissegg;TG;Area;real;true;17.10.2026;2719128.237;1270069.42;;
@@ -216933,7 +216933,7 @@
 10057129;Hungermatt;6052 Hergiswil NW;1507;Hergiswil (NW);NW;Area;real;true;12.11.2025;2665904.43;1204394.905;;
 10071472;Vorder Hobiel;6374 Buochs;1502;Buochs;NW;Area;real;true;12.11.2025;2676054.823;1203050.091;;
 10249687;Arni Stöck;6390 Engelberg;1511;Wolfenschiessen;NW;Area;real;true;12.11.2025;2670671.567;1185278.216;;
-10252287;Renggkapelle;6052 Hergiswil NW;1507;Hergiswil (NW);NW;Place;real;true;28.11.2025;2664875.706;1203346.799;;
+10252287;Renggkapelle;6052 Hergiswil NW;1507;Hergiswil (NW);NW;Place;real;true;28.11.2025;2664879;1203349;;
 10057101;Sulzmattli;6383 Wiesenberg;1503;Dallenwil;NW;Area;real;true;12.11.2025;2669718.977;1196893.031;;
 10084659;Hüsliboden;6383 Dallenwil;1503;Dallenwil;NW;Area;real;true;12.11.2025;2671998.983;1198140.447;;
 10061595;Hinterwandfluh;6386 Wolfenschiessen;1511;Wolfenschiessen;NW;Area;real;true;12.11.2025;2673864.486;1197154.854;;
@@ -217262,7 +217262,7 @@
 10257523;Geberts Schwand;6388 Grafenort;1511;Wolfenschiessen;NW;Area;real;true;12.11.2025;2670748.304;1193321.574;;
 10151062;Sportanlage Eichli;6370 Stans;1509;Stans;NW;Area;real;true;12.11.2025;2670546.488;1202272.166;;
 10090438;Schürmatt;6387 Oberrickenbach;1511;Wolfenschiessen;NW;Area;real;true;12.11.2025;2674021.925;1193766.548;;
-10196333;Alte Gummenbahn;6383 Wiesenberg;1503;Dallenwil;NW;Area;real;true;24.11.2025;2669986.336;1195964.156;;
+10196333;Alte Gummenbahn;6383 Wiesenberg;1503;Dallenwil;NW;Area;real;true;24.11.2025;2669985;1195975;;
 10187840;Unterfell;6387 Oberrickenbach;1511;Wolfenschiessen;NW;Area;real;true;12.11.2025;2674789.526;1192949.553;;
 10021120;Sprengi;6375 Beckenried;1501;Beckenried;NW;Area;real;true;12.11.2025;2677528.011;1201826.483;;
 10104002;Honegg;6373 Ennetbürgen;1505;Ennetbürgen;NW;Area;real;true;12.11.2025;2673363.736;1205310.253;;
@@ -220156,7 +220156,7 @@
 10154632;Rebgebiet-Berg;4464 Maisprach;2853;Maisprach;BL;Area;real;true;12.11.2025;2630717.811;1264125.214;;
 10141156;Firmachrain;4451 Wintersingen;2866;Wintersingen;BL;Area;real;true;12.11.2025;2629941.496;1259876.072;;
 10161698;Hauberg;4438 Langenbruck;2888;Langenbruck;BL;Area;real;true;12.11.2025;2622302.234;1245467.054;;
-10245023;Unter der Ringelfluh;4467 Rothenfluh;2858;Rothenfluh;BL;Area;real;true;12.11.2025;2636450.773;1257089.761;;
+10245023;Unter der Ringelfluh;4467 Rothenfluh;2858;Rothenfluh;BL;Area;real;true;12.11.2025;2636455;1257089;;
 10168486;Birch;4434 Hölstein;2886;Hölstein;BL;Area;real;true;12.11.2025;2626321.692;1252451.521;;
 10141430;Bad;4467 Rothenfluh;2858;Rothenfluh;BL;Area;real;true;12.11.2025;2637103.212;1257447.426;;
 10161717;Vorder Dürstel;4438 Langenbruck;2888;Langenbruck;BL;Area;real;true;12.11.2025;2625502.549;1244729.388;;
